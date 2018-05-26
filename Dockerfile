@@ -1,3 +1,4 @@
+ARG ARCH
 FROM node:8 as build
 
 COPY ./ /opt/docs
