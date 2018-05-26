@@ -1,7 +1,7 @@
 FROM node:8 as build
 
 COPY ./ /opt/docs
-WORKDIR /opt/docs
+WORKDIR /opt/docs/website
 
 RUN npm install
 RUN npm run build
