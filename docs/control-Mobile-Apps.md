@@ -14,7 +14,7 @@ In Control, click on *Manage* in the navigation bar.
   "images": [
     {
       "image": [
-        "https://files.readme.io/NhuzgsVWTIDp9JKBhmla_hqGBv73.png",
+        "https://images.shoutca.st/NhuzgsVWTIDp9JKBhmla_hqGBv73.png",
         "hqGBv73.png",
         "117",
         "68",
@@ -31,7 +31,7 @@ Still in the navigation bar, select the service for which you wish to request ap
   "images": [
     {
       "image": [
-        "https://files.readme.io/2EHepN3iTqepDxoCyAvM_CywNNUd.png",
+        "https://images.shoutca.st/2EHepN3iTqepDxoCyAvM_CywNNUd.png",
         "CywNNUd.png",
         "210",
         "64",
@@ -50,7 +50,7 @@ Still in the navigation bar, select the service for which you wish to request ap
     {
       "caption": "The service switcher list",
       "image": [
-        "https://files.readme.io/adv20t3LTziXn5vNOR82_WbdrIVZ.png",
+        "https://images.shoutca.st/adv20t3LTziXn5vNOR82_WbdrIVZ.png",
         "WbdrIVZ.png",
         "548",
         "260",
@@ -67,7 +67,7 @@ In the sidebar, click on *Mobile Apps*.
   "images": [
     {
       "image": [
-        "https://files.readme.io/0cX3iclpSWmVB5lyrL6b_gD7sSAy.png",
+        "https://images.shoutca.st/0cX3iclpSWmVB5lyrL6b_gD7sSAy.png",
         "gD7sSAy.png",
         "313",
         "178",
@@ -84,7 +84,7 @@ Click on *Submit a request* to submit an app request for your service.
   "images": [
     {
       "image": [
-        "https://files.readme.io/KtcoURmUSji9AZoT4qhh_DwDg1U2.png",
+        "https://images.shoutca.st/KtcoURmUSji9AZoT4qhh_DwDg1U2.png",
         "DwDg1U2.png",
         "875",
         "129",
@@ -175,7 +175,7 @@ On the request details page, edit the app request, then tick the "Self-hosted" c
   "images": [
     {
       "image": [
-        "https://files.readme.io/DA2ci8cQ5WCGDFRbaRiw_Schermafbeelding%202016-03-26%20om%2014.07.32.png",
+        "https://images.shoutca.st/DA2ci8cQ5WCGDFRbaRiw_Schermafbeelding%202016-03-26%20om%2014.07.32.png",
         "Schermafbeelding 2016-03-26 om 14.07.32.png",
         "1518",
         "456",
@@ -195,7 +195,7 @@ Once it has been processed (you'll get an email), you'll find the link to downlo
   "images": [
     {
       "image": [
-        "https://files.readme.io/Imu0nUSdQau3nly1XCbL_Schermafbeelding%202016-03-26%20om%2014.16.10.png",
+        "https://images.shoutca.st/Imu0nUSdQau3nly1XCbL_Schermafbeelding%202016-03-26%20om%2014.16.10.png",
         "Schermafbeelding 2016-03-26 om 14.16.10.png",
         "1818",
         "226",

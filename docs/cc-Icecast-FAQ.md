@@ -60,7 +60,7 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
   "images": [
     {
       "image": [
-        "https://files.readme.io/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
+        "https://images.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
         "Schermafbeelding 2015-11-25 om 11.06.06.png",
         "1494",
         "1016",

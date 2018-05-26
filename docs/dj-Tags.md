@@ -21,7 +21,7 @@ Tags can be managed under the *Tags* section of *Media*. You can add or remove t
   "images": [
     {
       "image": [
-        "https://files.readme.io/b869bf9-Schermafbeelding_2016-11-17_om_19.55.30.png",
+        "https://images.shoutca.st/b869bf9-Schermafbeelding_2016-11-17_om_19.55.30.png",
         "Schermafbeelding 2016-11-17 om 19.55.30.png",
         2496,
         1114,
@@ -37,7 +37,7 @@ Each Tag has a name and a corresponding color that is used for identification.
   "images": [
     {
       "image": [
-        "https://files.readme.io/b0b0f85-Schermafbeelding_2016-11-17_om_19.58.20.png",
+        "https://images.shoutca.st/b0b0f85-Schermafbeelding_2016-11-17_om_19.58.20.png",
         "Schermafbeelding 2016-11-17 om 19.58.20.png",
         1766,
         904,
@@ -60,7 +60,7 @@ Tags can be added to songs in Tunes by clicking the Tags or the *Add Tag* button
   "images": [
     {
       "image": [
-        "https://files.readme.io/b8fa077-Schermafbeelding_2016-11-17_om_19.57.43.png",
+        "https://images.shoutca.st/b8fa077-Schermafbeelding_2016-11-17_om_19.57.43.png",
         "Schermafbeelding 2016-11-17 om 19.57.43.png",
         2422,
         1490,
@@ -76,7 +76,7 @@ Tags can also be added in bulk by using the button at the bottom of the page.
   "images": [
     {
       "image": [
-        "https://files.readme.io/7a861b3-Schermafbeelding_2016-11-17_om_19.58.08.png",
+        "https://images.shoutca.st/7a861b3-Schermafbeelding_2016-11-17_om_19.58.08.png",
         "Schermafbeelding 2016-11-17 om 19.58.08.png",
         1802,
         406,

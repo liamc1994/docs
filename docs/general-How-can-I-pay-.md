@@ -34,7 +34,7 @@ To use Direct Debit (EUR, GBP only) make sure this is your default payment metho
   "images": [
     {
       "image": [
-        "https://files.readme.io/5c29ba6-Screenshot_from_2017-07-26_11-47-49.png",
+        "https://images.shoutca.st/5c29ba6-Screenshot_from_2017-07-26_11-47-49.png",
         "Screenshot from 2017-07-26 11-47-49.png",
         323,
         125,
@@ -50,7 +50,7 @@ To use Direct Debit (EUR, GBP only) make sure this is your default payment metho
   "images": [
     {
       "image": [
-        "https://files.readme.io/bcff611-Screenshot_from_2017-07-26_11-47-07.png",
+        "https://images.shoutca.st/bcff611-Screenshot_from_2017-07-26_11-47-07.png",
         "Screenshot from 2017-07-26 11-47-07.png",
         630,
         91,
@@ -107,7 +107,7 @@ In the Client Area you can add funds to your account. These will be credited on 
   "images": [
     {
       "image": [
-        "https://files.readme.io/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png",
+        "https://images.shoutca.st/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png",
         "Schermafbeelding 2017-03-03 om 09.07.00.png",
         426,
         486,

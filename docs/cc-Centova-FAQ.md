@@ -21,7 +21,7 @@ TuneIn needs a direct link. You can find that link under Tune in links under Qui
   "images": [
     {
       "image": [
-        "https://files.readme.io/USrYmhB2QpWRvsSU5KsP_Schermafbeelding%202015-10-29%20om%2013.38.37.png",
+        "https://images.shoutca.st/USrYmhB2QpWRvsSU5KsP_Schermafbeelding%202015-10-29%20om%2013.38.37.png",
         "Schermafbeelding 2015-10-29 om 13.38.37.png",
         "1120",
         "452",
@@ -52,7 +52,7 @@ You can find your FTP details on the Quick Links in Centova Cast.
   "images": [
     {
       "image": [
-        "https://files.readme.io/cZKjmhJuRpGhaelxZFsF_Schermafbeelding%202015-11-09%20om%2011.48.10.png",
+        "https://images.shoutca.st/cZKjmhJuRpGhaelxZFsF_Schermafbeelding%202015-11-09%20om%2011.48.10.png",
         "Schermafbeelding 2015-11-09 om 11.48.10.png",
         "2096",
         "304",

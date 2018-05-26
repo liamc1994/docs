@@ -9,7 +9,7 @@ You can find our network status at https://status.shoutca.st.
     {
       "caption": "status.shoutca.st showing our network status. All green!",
       "image": [
-        "https://files.readme.io/zLpCIQrMSKqFbi3t8eAH_FFYvdlt.png",
+        "https://images.shoutca.st/zLpCIQrMSKqFbi3t8eAH_FFYvdlt.png",
         "FFYvdlt.png",
         "980",
         "639",

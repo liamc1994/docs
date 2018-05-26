@@ -52,7 +52,7 @@ First of all we need to go to the admin interface of SHOUTcast itself. To do thi
   "images": [
     {
       "image": [
-        "https://files.readme.io/fef0d8e-Schermafbeelding_2016-07-27_om_12.03.24.png",
+        "https://images.shoutca.st/fef0d8e-Schermafbeelding_2016-07-27_om_12.03.24.png",
         "Schermafbeelding 2016-07-27 om 12.03.24.png",
         450,
         202,
@@ -69,7 +69,7 @@ Now we're at the SHOUTcast DNAS status page. Up in the menu you can find "Server
   "images": [
     {
       "image": [
-        "https://files.readme.io/aa5f15b-Schermafbeelding_2016-07-27_om_12.04.34.png",
+        "https://images.shoutca.st/aa5f15b-Schermafbeelding_2016-07-27_om_12.04.34.png",
         "Schermafbeelding 2016-07-27 om 12.04.34.png",
         1046,
         148,
@@ -87,7 +87,7 @@ You'll be prompted for the username and password. The username is "admin" and th
   "images": [
     {
       "image": [
-        "https://files.readme.io/b1d7e79-Schermafbeelding_2016-07-27_om_12.05.48.png",
+        "https://images.shoutca.st/b1d7e79-Schermafbeelding_2016-07-27_om_12.05.48.png",
         "Schermafbeelding 2016-07-27 om 12.05.48.png",
         844,
         422,
@@ -105,7 +105,7 @@ Now you get an overview of your streams. With each one there is an option to cre
   "images": [
     {
       "image": [
-        "https://files.readme.io/6d9db96-Schermafbeelding_2016-07-27_om_12.09.41.png",
+        "https://images.shoutca.st/6d9db96-Schermafbeelding_2016-07-27_om_12.09.41.png",
         "Schermafbeelding 2016-07-27 om 12.09.41.png",
         1672,
         1112,
@@ -132,7 +132,7 @@ Keep in mind, the AutoDJ or a live DJ can still tell the server not to be listed
   "images": [
     {
       "image": [
-        "https://files.readme.io/7ec2315-Schermafbeelding_2016-07-27_om_12.11.33.png",
+        "https://images.shoutca.st/7ec2315-Schermafbeelding_2016-07-27_om_12.11.33.png",
         "Schermafbeelding 2016-07-27 om 12.11.33.png",
         2198,
         1076,
@@ -148,7 +148,7 @@ Keep in mind, the AutoDJ or a live DJ can still tell the server not to be listed
   "images": [
     {
       "image": [
-        "https://files.readme.io/0cc3859-Schermafbeelding_2016-07-27_om_12.06.32.png",
+        "https://images.shoutca.st/0cc3859-Schermafbeelding_2016-07-27_om_12.06.32.png",
         "Schermafbeelding 2016-07-27 om 12.06.32.png",
         1220,
         552,
@@ -176,7 +176,7 @@ To set one up:
   "images": [
     {
       "image": [
-        "https://files.readme.io/JroErpTpRv2m1Jtb8eI1_Schermafbeelding%202015-10-17%20om%2018.33.15.png",
+        "https://images.shoutca.st/JroErpTpRv2m1Jtb8eI1_Schermafbeelding%202015-10-17%20om%2018.33.15.png",
         "Schermafbeelding 2015-10-17 om 18.33.15.png",
         "2162",
         "994",
@@ -209,7 +209,7 @@ SID stands for Stream ID, it is the number of the stream (mount point) on the se
   "images": [
     {
       "image": [
-        "https://files.readme.io/pw499NjTsG4GOTrqsPAK_Schermafbeelding%202015-10-25%20om%2012.41.37.png",
+        "https://images.shoutca.st/pw499NjTsG4GOTrqsPAK_Schermafbeelding%202015-10-25%20om%2012.41.37.png",
         "Schermafbeelding 2015-10-25 om 12.41.37.png",
         "678",
         "388",

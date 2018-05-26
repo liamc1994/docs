@@ -21,7 +21,7 @@ You must have a clock active for a specific day or time. DJ will always resume t
   "images": [
     {
       "image": [
-        "https://files.readme.io/QsCtoREiQdeeKkC61YwP_Clocks.png",
+        "https://images.shoutca.st/QsCtoREiQdeeKkC61YwP_Clocks.png",
         "Clocks.png",
         "960",
         "720",
