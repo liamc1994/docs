@@ -2,21 +2,11 @@
 title: "AutoDJ FAQ"
 
 ---
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Where can I change my bitrate/stream title/format?"
-}
-[/block]
+
+## Where can I change my bitrate/stream title/format?
 You can change all those settings under Settings -> Mount Points -> (/stream) -> AutoDJ Settings
 
-[block:callout]
-{
-  "type": "warning",
-  "body": "A wrong sample rate can mess up your stream's quality. 44100Hz is always suggested unless you run a really low bitrate."
-}
-[/block]
-
+> A wrong sample rate can mess up your stream's quality. 44100Hz is always suggested unless you run a really low bitrate.
 [block:image]
 {
   "images": [
