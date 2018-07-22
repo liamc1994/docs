@@ -14,7 +14,7 @@ const siteConfig = {
   url: 'https://docs-staging.shoutca.st' /* your website url */,
   baseUrl: '/' /* base url for your project */,
 
-  noIndex: true,
+  noIndex: false,
 
   // Used for publishing and more
   projectName: 'docs',
