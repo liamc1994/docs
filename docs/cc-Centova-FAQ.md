@@ -2,12 +2,9 @@
 title: "Centova FAQ"
 
 ---
-[block:api-header]
-{
-  "type": "basic",
-  "title": "What URL do I need to send to TuneIn"
-}
-[/block]
+
+## What URL do I need to send to TuneIn
+
 TuneIn needs a direct link. You can find that link under Tune in links under Quick Links. For example mine here is `http://curiosity.shoutca.st:8006/stream`
 [block:callout]
 {
@@ -33,19 +30,13 @@ TuneIn needs a direct link. You can find that link under Tune in links under Qui
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How can I modify the start page?"
-}
-[/block]
+
+## How can I modify the start page?
+
 The start page is meant for testing purposes only. We strongly advice against using it as a website!
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Where is my FTP?"
-}
-[/block]
+
+## Where is my FTP?
+
 You can find your FTP details on the Quick Links in Centova Cast.
 [block:image]
 {
@@ -70,6 +61,11 @@ You can find your FTP details on the Quick Links in Centova Cast.
   "body": "Make sure you leave the port field empty or use port 21. Using the port of your server will result in an error;"
 }
 [/block]
+
+
+## I did not find what I need
+
+Take a look at the other FAQs listed here or the [official Centova Cast documentation](http://www.centova.com/doc/cast/user_manual/usage_guide)
 
 [block:api-header]
 {

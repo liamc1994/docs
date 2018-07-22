@@ -2,12 +2,9 @@
 title: "Broadcasting tools"
 
 ---
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Broadcasting Live (using BUTT)"
-}
-[/block]
+
+## Broadcasting Live (using BUTT)
+
 
 [block:callout]
 {
@@ -49,12 +46,9 @@ If all is well, BUTT will Display 'Broadcasting' followed by a timer.
 The latest version of BUTT is not compatible with Sourcefabric's Airtime (at the time of writing this guide).
 
 Hope this helps !
-[block:api-header]
-{
-  "type": "basic",
-  "title": "IDJC-Internet DJ Console"
-}
-[/block]
+
+## IDJC-Internet DJ Console
+
 
 [block:callout]
 {
@@ -73,12 +67,9 @@ IDJC does require the use of Jack, an app that runs on Mac and Linux to connect 
 For a somewhat in depth tutorial I refer you to The Penguin Producer (which I co-hosted the podcast for a short while). 
 
 Those tutorials cover a lot of what IDJC can do but cant really hit all of it.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How to broadcast via Winamp"
-}
-[/block]
+
+## How to broadcast via Winamp
+
 In case you still got some llamas around Winamp can get you up in the air in seconds!
 
 First of all make sure we have the DSP installed: you may want to download that off of the [official support forum](http://forums.winamp.com/showthread.php?t=378892). After installing Winamp should open with an extra window (you might also want to look under the main window as it likes to hide there).
@@ -95,6 +86,11 @@ Next up is the Encoder tab. If you use the AutoDJ make sure these are the same a
 The rest of the tabs can be ignored, if you are interested feel free to take a look.
 Press connect and there we go!
 ![Schermafbeelding 2015-06-25 om 18.19.07.png](https://i.imgur.com/xxRmTM8.png) 
+
+
+PS: want to broadcast your input devices? Look under input!
+![Schermafbeelding 2015-06-25 om 18.19.50.png](https://i.imgur.com/brjfRmP.png)
+(https://i.imgur.com/xxRmTM8.png) 
 
 
 PS: want to broadcast your input devices? Look under input!

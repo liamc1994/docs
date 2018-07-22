@@ -2,12 +2,9 @@
 title: "Getting Started"
 
 ---
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Where to find Centova Cast?"
-}
-[/block]
+
+## Where to find Centova Cast?
+
 This guide will explain how to enter Centova Cast from the client area:
 
 1) Log in to the client area at [my.shoutca.st](https://my.shoutca.st)
@@ -29,12 +26,9 @@ This guide will explain how to enter Centova Cast from the client area:
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Getting Started"
-}
-[/block]
+
+## Getting Started
+
 Welcome to the SHOUTca.st family! New to Centova Cast? Don't worry we all were once! 
 
 First of all we have to find it, [this can help you a lot!](https://community.shoutca.st/topic/26/first-aid-where-to-find-centova-cast)
@@ -89,12 +83,9 @@ If you want to connect live you can find your details under "Quick Links", if yo
 Got a website? Then "Widgets" might be a nice page for you! 
 Want to plan in shows? Different rotations? Then the playlists feature is what you are looking for!
 Last but not least: freaked on statistics? Yes Centova provides those too! (Even in Excel for the die hards)
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How to broadcast live"
-}
-[/block]
+
+## How to broadcast live
+
 Got your broadcasting software and you are ready to go live? Then you probably need the details to connect. Finding them in Centova Cast is pretty simple!
 
 Once logged in, you can find all these details under "Quick Links".
@@ -140,12 +131,9 @@ This often means the AutoDJ is not able to read your audio stream. Please ensure
 
 * You are streaming in stereo
 * You are using the default sample rate, i.e., 44100Hz (44.1KHz)
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Where is the AutoDJ?"
-}
-[/block]
+
+## Where is the AutoDJ?
+
 Is the AutoDJ missing in the menu? It is probably just turned off. In this guide I'll explain on how to turn in on in a few simple steps.![Schermafbeelding 2015-04-05 om 15.56.38.png](https://i.imgur.com/0azYVP9.png) 
 
 1) Make sure the server is **turned off**
@@ -160,18 +148,21 @@ When you're done just press **update**
 ![Schermafbeelding 2015-04-05 om 16.00.35.png](https://i.imgur.com/Nvg0DpM.png) 
 3) We're done! The AutoDJ is now visible in the menu.
 ![Schermafbeelding 2015-04-05 om 16.01.55.png](https://i.imgur.com/XVfMQra.png)
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Forgot your Centova Cast password?"
-}
-[/block]
+
+## Forgot your Centova Cast password?
+
 Forgot your Centova Cast password? No problem!
 
 1) Log in to the Client Area at [my.shoutca.st](https://my.shoutca.st)
 
 2) Go to 'My Services'
 ![Schermafbeelding 2015-04-05 om 19.53.39.png](https://i.imgur.com/xJbnaBb.png) 
+
+3) Press 'view details on the service you want to reset the password for
+![Schermafbeelding 2015-04-05 om 19.54.13.png](https://i.imgur.com/puc7Occ.png) 
+
+4) Go to the 'Change Password' tab and reset your password
+![Schermafbeelding 2015-04-05 om 19.55.11.png](https://i.imgur.com/N2KP9SL.png)
 
 3) Press 'view details on the service you want to reset the password for
 ![Schermafbeelding 2015-04-05 om 19.54.13.png](https://i.imgur.com/puc7Occ.png) 

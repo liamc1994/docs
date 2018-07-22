@@ -2,12 +2,9 @@
 title: "Mobile Apps"
 
 ---
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Requesting your apps"
-}
-[/block]
+
+## Requesting your apps
+
 In Control, click on *Manage* in the navigation bar.
 [block:image]
 {
@@ -114,23 +111,17 @@ You will be notified whenever your app is submitted and if there are any issues 
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Editing your app request"
-}
-[/block]
+
+## Editing your app request
+
 You can also edit your app request from Control at any time.
 
 On the *Mobile Apps* page, there is a link to view more info about your request. When you click on it, your app request will be shown with all details, and you'll be offered the choice of editing it.
 
 App updates are not always processed as fast as initial requests are, especially when we have a high demand for apps. Again, we kindly ask you not to open any tickets for this, as they're a waste of time for both you and us.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "About Android apps"
-}
-[/block]
+
+## About Android apps
+
 On 2016-03-24, Google suspended our account. We're working on recovering the account. Unfortunately, Google is known not to reinstate accounts often or easily.
 
 If you already had an Android app but can't find it anymore, this is because Google has taken down all of our apps.
@@ -153,12 +144,9 @@ In both cases, you have to go to the app request details page in [Control](https
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Self-host your Android apps"
-}
-[/block]
+
+## Self-host your Android apps
+
 
 [block:callout]
 {
@@ -207,13 +195,19 @@ Once it has been processed (you'll get an email), you'll find the link to downlo
 }
 [/block]
 To publish an app, simply open the [Google Play developer console](https://play.google.com/apps/publish/) (not to be confused with the browser's developer console), then click on "Add new application" and follow the steps.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Unpublishing your app(s) from the app store(s)"
-}
-[/block]
+
+## Unpublishing your app(s) from the app store(s)
+
 This cannot be done automatically in Control. You'll have to request this by opening a ticket (mentioning your app name and your username).
+
+## I don't have any SHOUTca.st services. Can I order a custom mobile app?
+
+Unfortunately, this is not possible. Having a streaming service with us is mandatory for our mobile apps to work properly.
+
+## Can I have the source code?
+
+Our apps are not open source.
+our app name and your username).
 [block:api-header]
 {
   "type": "basic",

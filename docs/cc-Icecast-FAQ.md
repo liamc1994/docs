@@ -2,26 +2,17 @@
 title: "Icecast FAQ"
 
 ---
-[block:api-header]
-{
-  "type": "basic",
-  "title": "What is my username?"
-}
-[/block]
+
+## What is my username?
+
 On Icecast servers, the username for source connections is usually "source". Even though your Centova panel reads "(none)" under Username, make sure you are entering "source" if your encoder requires it to be filled in (most default to source if left blank).
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Why does my Icecast look different than other Icecast?"
-}
-[/block]
+
+## Why does my Icecast look different than other Icecast?
+
 In the past we made an Icecast fork with special improvements for our services and was meant to later on be what Cast is now. The last year we hit some limits causing us to decide to do a complete rewrite. One of the features this old platform had was an improved look. When reverting to use the Icecast name we could not let go of this design improvement and decided to keep it.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How to get listed on SHOUTcast.com"
-}
-[/block]
+
+## How to get listed on SHOUTcast.com
+
 Of course SHOUTcast.com does not only support SHOUTcast servers but also Icecast servers so also Cast 0.x. But you'll have to make sure a few settings are correct.
 
 If you use the AutoDJ make sure it is set to public, you can find this under "Mount Points" in the settings. Also make sure the Overrides has "Advertise in directory" set to "Always" or "Determinated by source".![Schermafbeelding 2015-05-15 om 17.03.59.png](https://i.imgur.com/YkffmFY.png)  ![Schermafbeelding 2015-05-15 om 17.04.07.png](https://i.imgur.com/q2kdQiG.png) 
@@ -38,12 +29,9 @@ Than just restart/reload your server and you're done.
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How to relay a stream"
-}
-[/block]
+
+## How to relay a stream
+
 Icecast has two relay modes a master and a mountpoint relay. The master relay will relay a whole Icecast server, since this is advanced and requires extra authentication we will not handle this.
 
 To relay a single stream open settings then "Mountpoint Relaying".
@@ -61,6 +49,17 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
     {
       "image": [
         "https://images.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
+        "Schermafbeelding 2015-11-25 om 11.06.06.png",
+        "1494",
+        "1016",
+        "#95490b",
+        ""
+      ]
+    }
+  ]
+}
+[/block]
+mages.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
         "Schermafbeelding 2015-11-25 om 11.06.06.png",
         "1494",
         "1016",

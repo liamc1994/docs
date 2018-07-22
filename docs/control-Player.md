@@ -10,12 +10,9 @@ Player is a HTML5 player widget designed to be responsive and modern. Player wor
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Sizes"
-}
-[/block]
+
+## Sizes
+
 Player is available in different formats. The possibilities are endless but here are some examples you can find.
 [block:embed]
 {
@@ -65,17 +62,15 @@ Player is available in different formats. The possibilities are endless but here
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Where can I find Player?"
-}
-[/block]
+
+## Where can I find Player?
+
 Player can be configured and enabled in [Control](doc:log-in) under *Manage* ⇒ *Player*. Make sure the correct service is selected in the navigation bar.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Can I change my default cover art?"
+
+## Can I change my default cover art?
+
+As of November 2015, not yet. This code is currently in our development branch and will soon be available. This will also apply to the iPhone app.
+efault cover art?"
 }
 [/block]
 As of November 2015, not yet. This code is currently in our development branch and will soon be available. This will also apply to the iPhone app.

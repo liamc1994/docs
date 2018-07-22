@@ -6,12 +6,9 @@ Internet radio is the next step after FM and DAB radio. Thanks to the Internet, 
 
 To get your stream out there, you need stream hosting that provides you with the server power to reach your listeners. That's what SHOUTca.st does.
 SHOUTca.st offers you not only a great audio stream but also provides free apps for iPhone and Android, a widget to place on your website, and a great AutoDJ amongst many other things.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Do I require a broadcasting licence?"
-}
-[/block]
+
+## Do I require a broadcasting licence?
+
 SHOUTca.st is a UK-based company, therefore we do have to enforce online broadcasting regulations. This means you need written permission by all rights owners to the music you play or a license from the organisation that hands these out in your territory.
 [block:callout]
 {
@@ -26,3 +23,4 @@ For online broadcast, two licences are required. One from PPL & one from PRS For
 For other countries we suggest to contact your local authorities or ask for suggestions in the community.
 
 We do not force any of our users to purchase these licences and will not suspend any services if we find that they are not licenced. However, if we receive a complaint from PPL, PRS or a music artist/record label - we will be forced to remove the audio file which has been complained about. This could also lead to termination of the main account. You will be notified of this before anything is deleted from your account.
+fied of this before anything is deleted from your account.

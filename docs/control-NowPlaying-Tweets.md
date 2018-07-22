@@ -2,12 +2,9 @@
 title: "#NowPlaying Tweets"
 
 ---
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How to generate your API keys"
-}
-[/block]
+
+## How to generate your API keys
+
 You can create your API key for Twitter by going to https://apps.twitter.com and logging in with the account you want to send tweets with.
 
 Click on Create New App.
@@ -36,5 +33,8 @@ Now you can enter the keys from the page into Control.
   "type": "danger",
   "title": "",
   "body": "Never share these keys with anyone. Treat them like your password, as they give full access to read and write to your Twitter account. All of the keys seen in this example are revoked."
+}
+[/block]
+ of the keys seen in this example are revoked."
 }
 [/block]

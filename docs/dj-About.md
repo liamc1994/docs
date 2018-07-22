@@ -7,11 +7,10 @@ DJ has been on our roadmap for years and we've been working on it for months. We
 We've put a lot of work in DJ and we want it to be perfect. For that to be achieved, we can't make it immediately available to everyone from day 1.
 
 We will have a beta program that will expand over time to gather feedback from our users that can further improve the system before general release.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Where can I see it in action?"
-}
-[/block]
+
+## Where can I see it in action?
+
+https://opencast.radioca.st
+https://securitynow.radioca.st
 https://opencast.radioca.st
 https://securitynow.radioca.st

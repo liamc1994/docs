@@ -3,12 +3,9 @@ title: "Plans"
 
 ---
 Centova Cast comes in 4 flavours to fit every need. You can change plans all the time in the Client Area without losing any money you already paid or any data on your account.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How to upgrade?"
-}
-[/block]
+
+## How to upgrade?
+
 First of all you need to log in to the client area. There go to Services -> My Services.
 [block:image]
 {
@@ -119,12 +116,10 @@ After paying your invoice (if needed) your service will be changed in a few seco
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "What is the Pro+ plan?"
-}
-[/block]
+
+## What is the Pro+ plan?
+
 The Pro+ plan is a plan that extends the Pro plan's disk space and replaced the old Pro plans with extra disk space with a more flexible solution.
 
 The Pro+ plan is simple and flexible. You pay £5, the same as Pro, and it includes everything the Pro plan has. The difference is simple: once you go over 20GB disk space, you can keep uploading files as much as you like. At the end of the billing period, you will be charged an extra on your invoice that bills you for the extra disk space you have used, at a rate of £0.15/GB.
+ll be charged an extra on your invoice that bills you for the extra disk space you have used, at a rate of £0.15/GB.

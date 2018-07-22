@@ -2,25 +2,17 @@
 title: "SHOUTcast FAQ"
 
 ---
-[block:api-header]
-{
-  "title": "My server says it needs an update"
-}
-[/block]
+
+## My server says it needs an update
+
 SHOUTcast 2.5 has a bug in it's core that causes buffering issues along with some API issues. To maintain stream quality we decided to stay with 2.4.7 till a new release comes out that we have tested not to have this issue.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Why is my stream private?"
-}
-[/block]
+
+## Why is my stream private?
+
 Private on SHOUTcast doesn't mean nobody can tune in. Private means the server is not listed on SHOUTcast.com. If you wish to change that see [How can I get listed on the SHOUTcast directory?](https://docs.shoutca.st/docs/shoutcast-faq#how-can-i-get-listed-on-the-shoutcast-directory)
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Can I access my SHOUTcast server's Administrator Summary?"
-}
-[/block]
+
+## Can I access my SHOUTcast server's Administrator Summary?
+
 Of course! To access your SHOUTcast server’s admin section, please log in into Centova Cast, click on ‘Admin’ in the left navigation bar. If you don't directly get a login prompt press on "Server Admin".
 [block:callout]
 {
@@ -29,23 +21,17 @@ Of course! To access your SHOUTcast server’s admin section, please log in into
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "My stream title/url/genre does not change"
-}
-[/block]
+
+## My stream title/url/genre does not change
+
 The stream title not changing is a common heard issue. This is because SHOUTcast uses the info in their database instead of the one you provide once you set it to public. It is easy to fix in two steps:
 
 1) Check your mount point configuration. Under the "AutoDJ" tab there often still is the old title.
 2) Check your Authhash: when SHOUTcast v2 is set to public the stream title is frozen unless changed in the Administrator part. Just log in and press "Update Authhash". There you can edit the name and save it.
 ![Schermafbeelding 2015-05-09 om 12.45.59.png](https://i.imgur.com/wJ2ec4K.png)
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How can I get listed on the SHOUTcast.com directory?"
-}
-[/block]
+
+## How can I get listed on the SHOUTcast.com directory?
+
 First of all we need to go to the admin interface of SHOUTcast itself. To do this go to Centova Cast and in the side bar you can find "Admin". 
 [block:image]
 {
@@ -159,12 +145,9 @@ Keep in mind, the AutoDJ or a live DJ can still tell the server not to be listed
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How to relay a stream?"
-}
-[/block]
+
+## How to relay a stream?
+
 A relay is a function in the SHOUTcast server that tunes in to another (SHOUTcast/Icecast/Cast) stream and sends out the same stream again on the server. Relays simply repeat the stream and are not able to change the content or bitrate of a stream.
 
 To set one up:
@@ -190,19 +173,13 @@ To set one up:
 This needs to be the full URL of the stream eg. http://hubble.shoutca.st:8411/stream/1 or http://hubble.shoutca.st:8411/;
 For SHOUTcast these typically end on  /stream/x or ;, for Icecast they end with the name of te mount point (eg. /stream) and for cast they end in /streams/x (x is the bitrate/stream name)
 4) Press update and restart the server.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Why does my server says SHOUTcast v1?"
-}
-[/block]
+
+## Why does my server says SHOUTcast v1?
+
 If you have ordered SHOUTcast v2 (v1 is not being sold anymore) and under Quick Links you see v1 you still have v2. The reason you see v1 thee is because most connections you connect to the AutoDJ so it can shut itself down when you are live. The AutoDJ doesn't support the SHOUTcast v2 protocol. That is why you will see v1 there.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "What is my SID?"
-}
-[/block]
+
+## What is my SID?
+
 SID stands for Stream ID, it is the number of the stream (mount point) on the server. By default this is 1, however if you have added more I suggest checking it on the home page of your DNAS.
 [block:image]
 {
@@ -221,14 +198,21 @@ SID stands for Stream ID, it is the number of the stream (mount point) on the se
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Can I have SHOUTcast v1?"
-}
-[/block]
+
+## Can I have SHOUTcast v1?
+
 SHOUTcast v1 has not been updated for over 12 years and never will. Also there are many bugs and even serious security vulnerabilities know to be in there. Therefore we decided to not offer SHOUTcast v1 servers anymore. 
 SHOUTcast.com also decided to stop supporting SHOUTcast v1 for their directory. Very soon these servers won't be listed anymore.
+
+Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
+[block:callout]
+{
+  "type": "info",
+  "title": "Resellers",
+  "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
+}
+[/block]
+UTcast v1 for their directory. Very soon these servers won't be listed anymore.
 
 Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
 [block:callout]

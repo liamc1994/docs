@@ -9,12 +9,9 @@ A clock can be set on a weekly basis, you can set them to a specific day and tim
 A clock is always comprised of a specific percentage of tags. This is the amount of songs from that tag that will be played during the clock. These songs will be played in a random order. All clocks will follow the separation rules set to comply with your local laws. 
 
 You must have a clock active for a specific day or time. DJ will always resume to playing the music listed in the Clock if a playlist failed to play or ended before time. This is to prevent dead air.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "How clocks are used"
-}
-[/block]
+
+## How clocks are used
+
 
 [block:image]
 {
@@ -27,6 +24,13 @@ You must have a clock active for a specific day or time. DJ will always resume t
         "720",
         "#101112",
         ""
+      ],
+      "border": false
+    }
+  ]
+}
+[/block]
+    ""
       ],
       "border": false
     }

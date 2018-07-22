@@ -9,12 +9,9 @@ title: "Tags"
 }
 [/block]
 Tags are added to songs for easy classification. Tags are used in Clocks to pick specific songs, or also can be filtered upon in Tunes (to find specific songs with the same Tag assigned).
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Managing Tags"
-}
-[/block]
+
+## Managing Tags
+
 Tags can be managed under the *Tags* section of *Media*. You can add or remove them by using the *edit* button.
 [block:image]
 {
@@ -48,12 +45,9 @@ Each Tag has a name and a corresponding color that is used for identification.
 }
 [/block]
 
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Tagging Songs"
-}
-[/block]
+
+## Tagging Songs
+
 Tags can be added to songs in Tunes by clicking the Tags or the *Add Tag* button if no tags are present.
 [block:image]
 {
@@ -78,6 +72,15 @@ Tags can also be added in bulk by using the button at the bottom of the page.
       "image": [
         "https://images.shoutca.st/7a861b3-Schermafbeelding_2016-11-17_om_19.58.08.png",
         "Schermafbeelding 2016-11-17 om 19.58.08.png",
+        1802,
+        406,
+        "#ebeceb"
+      ]
+    }
+  ]
+}
+[/block]
+hermafbeelding 2016-11-17 om 19.58.08.png",
         1802,
         406,
         "#ebeceb"
