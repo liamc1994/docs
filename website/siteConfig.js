@@ -14,6 +14,8 @@ const siteConfig = {
   url: 'https://docs-staging.shoutca.st' /* your website url */,
   baseUrl: '/' /* base url for your project */,
 
+  noIndex: true,
+
   // Used for publishing and more
   projectName: 'docs',
   organizationName: 'innovate-technologies',
@@ -26,6 +28,8 @@ const siteConfig = {
     {doc: 'cast-About', label: 'Cast'},
     {doc: 'cc-Centova-FAQ', label: 'Centova Cast'},
   ],
+
+  stylesheets: ["/css/custom.css"],
 
   /* colors for website */
   colors: {
