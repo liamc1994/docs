@@ -22,6 +22,7 @@ class Footer extends React.Component {
     const currentYear = new Date().getFullYear();
     return (
       <footer className="nav-footer" id="footer">
+        <section>Found an error> <a href="https://github.com/innovate-technologies/docs">Fork is on GitHub</a></section>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );
