@@ -20,9 +20,10 @@ class Footer extends React.Component {
 
   render() {
     const currentYear = new Date().getFullYear();
+    const linkStyle = {color: "rgba(255, 255, 255, 0.4)", textDecoration: "underline"}
     return (
       <footer className="nav-footer" id="footer">
-        <section>Found an error> <a href="https://github.com/innovate-technologies/docs">Fork is on GitHub</a></section>
+        <section  className="copyright">Found an error? <a href="https://github.com/innovate-technologies/docs" style={linkStyle} >Fork us on GitHub</a></section>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );
