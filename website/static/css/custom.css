@@ -1,5 +1,16 @@
 /* your custom css */
 
+@font-face {
+    font-family: 'Diavlo Light';
+    src: url('https://cdn.shoutca.st/cast/css/Diavlo-Light-Regular.ttf.woff') format('woff'),
+         url('https://cdn.shoutca.st/cast/css/Diavlo-Light-Regular.ttf.svg#Diavlo-Light-Regular') format('svg'),
+         url('https://cdn.shoutca.st/cast/css/Diavlo-Light-Regular.ttf.eot'),
+         url('https://cdn.shoutca.st/cast/css/Diavlo-Light-Regular.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
@@ -17,4 +28,20 @@
 
 p a {
     text-decoration: underline;
+}
+
+.headerTitle {
+    font-family: 'Diavlo Light';
+    font-size: 28px !important;
+    padding-top: 17px !important;
+    line-height: 34px !important;
+    font-weight: 400 !important;
+}
+
+.fixedHeaderContainer {
+    min-height: 60px !important;
+}
+
+.navigationSlider .slidingNav ul li a {
+    padding: 22px 15px !important;
 }
