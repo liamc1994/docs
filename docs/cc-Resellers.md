@@ -21,16 +21,3 @@ Yes you can, if you accept the limits described above.
 ## Can I resell resellers?
 
 Reseller accounts can only create normal accounts.
-se a reseller for my own use?"
-}
-[/block]
-Yes you can, if you accept the limits described above.
-[block:api-header]
-{
-  "type": "basic",
-  "title": "Can I resell resellers?"
-}
-[/block]
-Reseller accounts can only create normal accounts.
-lock]
-Reseller accounts can only create normal accounts.

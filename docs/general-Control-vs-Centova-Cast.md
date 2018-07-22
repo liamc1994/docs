@@ -6,6 +6,3 @@ SHOUTca.st currently has two offers. The Centova Cast offer is a classic approac
 Control is still under heavy development and currently doesn't offer polished features you might find in other solutions (such as an AutoDJ).
 
 > Both offers have a free plan or trial. We strongly suggest trying it out for free before you order a paid plan. If you upgrade, you won't lose your settings and data!
-rade, you won't lose your settings and data!"
-}
-[/block]

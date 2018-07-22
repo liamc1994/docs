@@ -14,28 +14,3 @@ You must have a clock active for a specific day or time. DJ will always resume t
 
 
 ![](https://images.shoutca.st/QsCtoREiQdeeKkC61YwP_Clocks.png)
-    ""
-      ],
-      "border": false
-    }
-  ]
-}
-[/block]
-        "Clocks.png",
-        "960",
-        "720",
-        "#101112",
-        ""
-      ],
-      "border": false
-    }
-  ]
-}
-[/block]
-    ""
-      ],
-      "border": false
-    }
-  ]
-}
-[/block]

@@ -80,8 +80,3 @@ SHOUTcast.com also decided to stop supporting SHOUTcast v1 for their directory. 
 Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
 > **Resellers**
 > ~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead.
-fo",
-  "title": "Resellers",
-  "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
-}
-[/block]

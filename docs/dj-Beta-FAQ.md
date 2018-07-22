@@ -32,8 +32,3 @@ The interface in Control is still being worked on. Our goal was to make everythi
 * **Do not upload** masses of music (we can handle it, just not enough harddrives and monitoring available).
 * **Do not** start 1000 servers, automatic scaling of DJ is not yet enabled.
 * **Do not** use this on your main station, the system can fail at any time whilst still in development.
-.~~
-* **Do not upload** masses of music (we can handle it, just not enough harddrives and monitoring available).
-* **Do not** start 1000 servers, automatic scaling of DJ is not yet enabled.
-* **Do not** use this on your main station, the system can fail at any time whilst still in development.
-system can fail at any time whilst still in development.

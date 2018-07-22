@@ -39,4 +39,3 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
 5) Make sure you relay metadata to show song info in your stream.
 6) Leave the rest blank and save your settings
 ![](https://images.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png)
-63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png)

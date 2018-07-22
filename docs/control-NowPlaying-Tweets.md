@@ -29,12 +29,3 @@ Press *Create my access token*. You'll then see the required keys.
 
 Now you can enter the keys from the page into Control.
 > Never share these keys with anyone. Treat them like your password, as they give full access to read and write to your Twitter account. All of the keys seen in this example are revoked.
- of the keys seen in this example are revoked."
-}
-[/block]
-d."
-}
-[/block]
- of the keys seen in this example are revoked."
-}
-[/block]

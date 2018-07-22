@@ -26,23 +26,3 @@ You can find your FTP details on the Quick Links in Centova Cast.
 ## I did not find what I need
 
 Take a look at the other FAQs listed here or the [official Centova Cast documentation](http://www.centova.com/doc/cast/user_manual/usage_guide)
-
-[block:api-header]
-{
-  "type": "basic",
-  "title": "I did not find what I need"
-}
-[/block]
-Take a look at the other FAQs listed here or the [official Centova Cast documentation](http://www.centova.com/doc/cast/user_manual/usage_guide)
-I did not find what I need
-
-Take a look at the other FAQs listed here or the [official Centova Cast documentation](http://www.centova.com/doc/cast/user_manual/usage_guide)
-
-[block:api-header]
-{
-  "type": "basic",
-  "title": "I did not find what I need"
-}
-[/block]
-Take a look at the other FAQs listed here or the [official Centova Cast documentation](http://www.centova.com/doc/cast/user_manual/usage_guide)
-listed here or the [official Centova Cast documentation](http://www.centova.com/doc/cast/user_manual/usage_guide)

@@ -62,11 +62,3 @@ Player is available in different formats. The possibilities are endless but here
 
 Player can be configured and enabled in [Control](doc:log-in) under *Manage* ⇒ *Player*. Make sure the correct service is selected in the navigation bar.
 
-## Can I change my default cover art?
-
-As of November 2015, not yet. This code is currently in our development branch and will soon be available. This will also apply to the iPhone app.
-efault cover art?"
-}
-[/block]
-As of November 2015, not yet. This code is currently in our development branch and will soon be available. This will also apply to the iPhone app.
-on be available. This will also apply to the iPhone app.

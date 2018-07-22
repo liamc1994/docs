@@ -12,5 +12,3 @@ We will have a beta program that will expand over time to gather feedback from o
 
 https://opencast.radioca.st
 https://securitynow.radioca.st
-https://opencast.radioca.st
-https://securitynow.radioca.st

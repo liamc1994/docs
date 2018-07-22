@@ -18,9 +18,3 @@ SHOUTcast v1 has not been updated for over 11 years and never will. Also there a
 SHOUTcast.com also decided to stop supporting SHOUTcast v1 for their directory. Very soon these servers won't be listed anymore.
 > **Resellers**
 > Some resellers can still create SHOUTcast v1 servers, if you do you agree that we are not responsible for for any issues caused by this. SHOUTca.st won't help with any issues on SHOUTcast v1.
-not responsible for for any issues caused by this. SHOUTca.st won't help with any issues on SHOUTcast v1."
-}
-[/block]
-OUTca.st won't help with any issues on SHOUTcast v1."
-}
-[/block]

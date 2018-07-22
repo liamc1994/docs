@@ -9,6 +9,4 @@ If you need HTTPS, you can also use https:// (eg. https://meyskens.radioca.st/).
 
 
 > Due the technology used the listeners will not show their own IP. This will probably get fixed in SHOUTcast 2.5.
-is will probably get fixed in SHOUTcast 2.5."
-}
-[/block]
+
