@@ -2,12 +2,7 @@
 title: "Tags"
 
 ---
-[block:callout]
-{
-  "type": "info",
-  "body": "These screenshots may differ from what you might see, they're taken from earlier builds of Control + DJ. As we keep developing this project, they might appear different in the current version."
-}
-[/block]
+> These screenshots may differ from what you might see, they're taken from earlier builds of Control + DJ. As we keep developing this project, they might appear different in the current version.
 Tags are added to songs for easy classification. Tags are used in Clocks to pick specific songs, or also can be filtered upon in Tunes (to find specific songs with the same Tag assigned).
 
 ## Managing Tags
@@ -68,6 +63,13 @@ Tags can also be added in bulk by using the button at the bottom of the page.
 hermafbeelding 2016-11-17 om 19.58.08.png",
         1802,
         406,
+        "#ebeceb"
+      ]
+    }
+  ]
+}
+[/block]
+     406,
         "#ebeceb"
       ]
     }

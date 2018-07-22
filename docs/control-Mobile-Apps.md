@@ -18,21 +18,11 @@ Click on *Submit a request* to submit an app request for your service.
 Fill in the form properly without ignoring the guidelines and tips, then submit the form. Control will then reload to confirm your submission.
 
 You will be notified whenever your app is submitted and if there are any issues with your request.
-[block:callout]
-{
-  "type": "warning",
-  "title": "ETAs",
-  "body": "The estimated wait times indicated in Control are what they are: *estimated*. That means that they don't always correspond to the current average wait time. This is especially true when we have an issue with our build system or developer account, or more generally, when there is a high demand for mobile apps."
-}
-[/block]
+> **ETAs**
+> The estimated wait times indicated in Control are what they are: *estimated*. That means that they don't always correspond to the current average wait time. This is especially true when we have an issue with our build system or developer account, or more generally, when there is a high demand for mobile apps.
 
-[block:callout]
-{
-  "type": "danger",
-  "title": "IMPORTANT",
-  "body": "Opening tickets to ask when your app will be available is a waste of time, as we will **not** reply to such tickets.\n\n* In case you're worried about your app request not having been received on our end, don't worry. If Control said your app request was submitted, then we received it.\n\n* Are you impatient? Unfortunately, you'll have to wait for at least one week before getting your iOS app. This is because of the always high demand for mobile apps and the Apple approval process (which already takes a full week). Thus, opening a ticket to ask us \"when will I get my app\" will **not** help at all.\n\n* Want to follow your app request status? You can do this in Control."
-}
-[/block]
+> **IMPORTANT**
+> Opening tickets to ask when your app will be available is a waste of time, as we will **not** reply to such tickets.\n\n* In case you're worried about your app request not having been received on our end, don't worry. If Control said your app request was submitted, then we received it.\n\n* Are you impatient? Unfortunately, you'll have to wait for at least one week before getting your iOS app. This is because of the always high demand for mobile apps and the Apple approval process (which already takes a full week). Thus, opening a ticket to ask us \"when will I get my app\" will **not** help at all.\n\n* Want to follow your app request status? You can do this in Control.
 
 
 ## Editing your app request
@@ -59,25 +49,15 @@ Therefore, **we strongly recommend self-hosting your app**, as that is more flex
 
 In both cases, you have to go to the app request details page in [Control](https://control.shoutca.st), edit and save it so we can process your app request again. You'll be notified when your app is resubmitted or when it is available for download.
 
-[block:callout]
-{
-  "type": "danger",
-  "body": "Google has suspended two apps for an invalid reason again. As they have a three-strike policy, we're appealing to avoid having our account terminated again. Submission of Android apps to the Google Play Store is suspended until Google resolves this.\n\nAndroid apps that are pending submission will stay on the \"Pending\" status for the moment.\nWe strongly suggest self-hosting the apps. These requests are the only ones that will get processed at this moment.",
-  "title": "Submissions to the Play Store are currently suspended"
-}
-[/block]
+> **"title": "Submissions to the Play Store are currently suspended"**
+> Google has suspended two apps for an invalid reason again. As they have a three-strike policy, we're appealing to avoid having our account terminated again. Submission of Android apps to the Google Play Store is suspended until Google resolves this.\n\nAndroid apps that are pending submission will stay on the \"Pending\" status for the moment.\nWe strongly suggest self-hosting the apps. These requests are the only ones that will get processed at this moment.,
 
 
 ## Self-host your Android apps
 
 
-[block:callout]
-{
-  "type": "info",
-  "title": "Own Google Play Developer account required",
-  "body": "To host your Android app yourself, you need a Google Play Developer account. If you don't have one, you can [sign up for one here](https://play.google.com/apps/publish/signup/).\nAmazon also offers a free alternative at the [Amazon App Store](https://developer.amazon.com/public/support/submitting-your-app)"
-}
-[/block]
+> **Own Google Play Developer account required**
+> To host your Android app yourself, you need a Google Play Developer account. If you don't have one, you can [sign up for one here](https://play.google.com/apps/publish/signup/).\nAmazon also offers a free alternative at the [Amazon App Store](https://developer.amazon.com/public/support/submitting-your-app)
 You have the possibility of hosting your Android app on your own Google Play Developer account.
 
 On the request details page, edit the app request, then tick the "Self-hosted" checkbox.
@@ -150,6 +130,16 @@ our app name and your username).
   "type": "basic",
   "title": "I don't have any SHOUTca.st services. Can I order a custom mobile app?"
 }
+[/block]
+Unfortunately, this is not possible. Having a streaming service with us is mandatory for our mobile apps to work properly.
+[block:api-header]
+{
+  "type": "basic",
+  "title": "Can I have the source code?"
+}
+[/block]
+Our apps are not open source.
+
 [/block]
 Unfortunately, this is not possible. Having a streaming service with us is mandatory for our mobile apps to work properly.
 [block:api-header]

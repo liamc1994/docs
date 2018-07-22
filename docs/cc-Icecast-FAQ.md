@@ -22,12 +22,7 @@ The last step is to make sure that under Advanced "Directory listings URL" is se
 
 Than just restart/reload your server and you're done.
 
-[block:callout]
-{
-  "type": "info",
-  "body": "Make sure you use a common genre, if not SHOUTcast.com will reject your listing."
-}
-[/block]
+> Make sure you use a common genre, if not SHOUTcast.com will reject your listing.
 
 
 ## How to relay a stream
@@ -44,25 +39,4 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
 5) Make sure you relay metadata to show song info in your stream.
 6) Leave the rest blank and save your settings
 ![](https://images.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png)
-mages.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
-        "Schermafbeelding 2015-11-25 om 11.06.06.png",
-        "1494",
-        "1016",
-        "#95490b",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
-i63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
-        "Schermafbeelding 2015-11-25 om 11.06.06.png",
-        "1494",
-        "1016",
-        "#95490b",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
+63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png)

@@ -7,12 +7,7 @@ A reseller account is a special Centova Cast account that allows you to create m
 ## Can I automate my sales?
 
 Yes you can, but not in Centova Cast itself. There are some software suites available that automate billing and the creation of the accounts such as [WHMCS](https://whmcs.com). 
-[block:callout]
-{
-  "type": "info",
-  "body": "WHMCS is not the best out there, the software has some flaws and design issues. If you know a better alternative that supports Centova Cast resellers feel free to suggest it to us."
-}
-[/block]
+> WHMCS is not the best out there, the software has some flaws and design issues. If you know a better alternative that supports Centova Cast resellers feel free to suggest it to us.
 
 
 ## Can I use extra services?
@@ -36,4 +31,6 @@ Yes you can, if you accept the limits described above.
   "title": "Can I resell resellers?"
 }
 [/block]
+Reseller accounts can only create normal accounts.
+lock]
 Reseller accounts can only create normal accounts.

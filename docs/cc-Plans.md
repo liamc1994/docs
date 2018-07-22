@@ -19,12 +19,7 @@ After picking it you'll get an overview of the money you'll get back or have to 
 
 ![](https://images.shoutca.st/nGf4sdP8Qt2amXzWaNRv_Schermafbeelding%202015-10-21%20om%2011.06.20.png)
 After paying your invoice (if needed) your service will be changed in a few seconds. If you're logged in in Centova Cast don't forget to log out and in again to see the new limits. 
-[block:callout]
-{
-  "type": "info",
-  "body": "You can't downgrade back from a paid plan to a free plan. This was possible in the past but got disabled because of abuse."
-}
-[/block]
+> You can't downgrade back from a paid plan to a free plan. This was possible in the past but got disabled because of abuse.
 
 
 ## What is the Pro+ plan?
@@ -45,12 +40,7 @@ lding%202015-10-21%20om%2011.06.20.png",
 }
 [/block]
 After paying your invoice (if needed) your service will be changed in a few seconds. If you're logged in in Centova Cast don't forget to log out and in again to see the new limits. 
-[block:callout]
-{
-  "type": "info",
-  "body": "You can't downgrade back from a paid plan to a free plan. This was possible in the past but got disabled because of abuse."
-}
-[/block]
+> You can't downgrade back from a paid plan to a free plan. This was possible in the past but got disabled because of abuse.
 
 
 ## What is the Pro+ plan?
@@ -59,3 +49,4 @@ The Pro+ plan is a plan that extends the Pro plan's disk space and replaced the 
 
 The Pro+ plan is simple and flexible. You pay £5, the same as Pro, and it includes everything the Pro plan has. The difference is simple: once you go over 20GB disk space, you can keep uploading files as much as you like. At the end of the billing period, you will be charged an extra on your invoice that bills you for the extra disk space you have used, at a rate of £0.15/GB.
 ll be charged an extra on your invoice that bills you for the extra disk space you have used, at a rate of £0.15/GB.
+e charged an extra on your invoice that bills you for the extra disk space you have used, at a rate of £0.15/GB.

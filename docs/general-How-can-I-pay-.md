@@ -7,13 +7,8 @@ We accept all major credit and debit cards such as Visa, MasterCard, Maestro (Ba
 ## What currencies can I pay in?
 
 You can pay in British Pounds (GBP), US Dollars (USD) and Euros (EUR). You will keep paying the price you see on your first invoice, so if you chose Euro, you will keep paying that price in Euro and are not affected by any changes in the currency market.
-[block:callout]
-{
-  "type": "info",
-  "title": "A special case: discounts",
-  "body": "Some discounts only apply for the initial invoice. This means that you will pay a discounted price for the first invoice, and the full price for subsequent invoices."
-}
-[/block]
+> **A special case: discounts**
+> Some discounts only apply for the initial invoice. This means that you will pay a discounted price for the first invoice, and the full price for subsequent invoices.
 
 
 ## Do you charge automatically?
@@ -28,13 +23,8 @@ To use Direct Debit (EUR, GBP only) make sure this is your default payment metho
 ![](https://images.shoutca.st/bcff611-Screenshot_from_2017-07-26_11-47-07.png)
 There under payment method select "Direct Debit (GoCardless). Then save the settings.
 To complete the setup make sure you have paid at least one invoice with Direct Debit setup. 
-[block:callout]
-{
-  "type": "warning",
-  "body": "We have no access to your PayPal subscription, so don't forget to change or cancel it when needed.",
-  "title": "PayPal subscriptions"
-}
-[/block]
+> **"title": "PayPal subscriptions"**
+> We have no access to your PayPal subscription, so don't forget to change or cancel it when needed.,
 
 
 ## My card payment failed
@@ -85,6 +75,16 @@ ces open the funds will not cover those).
       "image": [
         "https://images.shoutca.st/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png",
         "Schermafbeelding 2017-03-03 om 09.07.00.png",
+        426,
+        486,
+        "#2e8b5c"
+      ],
+      "sizing": "80"
+    }
+  ]
+}
+[/block]
+7-03-03 om 09.07.00.png",
         426,
         486,
         "#2e8b5c"

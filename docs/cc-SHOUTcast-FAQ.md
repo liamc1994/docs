@@ -14,12 +14,7 @@ Private on SHOUTcast doesn't mean nobody can tune in. Private means the server i
 ## Can I access my SHOUTcast server's Administrator Summary?
 
 Of course! To access your SHOUTcast server’s admin section, please log in into Centova Cast, click on ‘Admin’ in the left navigation bar. If you don't directly get a login prompt press on "Server Admin".
-[block:callout]
-{
-  "type": "danger",
-  "body": "When prompted, please log in as ‘admin’ with your administrator password (which is defined in Centova Cast)."
-}
-[/block]
+> When prompted, please log in as ‘admin’ with your administrator password (which is defined in Centova Cast).
 
 
 ## My stream title/url/genre does not change
@@ -43,12 +38,7 @@ Now you get an overview of your streams. With each one there is an option to cre
 
 ![](https://images.shoutca.st/6d9db96-Schermafbeelding_2016-07-27_om_12.09.41.png)
 
-[block:callout]
-{
-  "type": "info",
-  "body": "At time of writing this screenshot has been outdated, this has changed in SHOUTcast 2.5. But it currently is not deployed on the SHOUTca.st network due many known issues."
-}
-[/block]
+> At time of writing this screenshot has been outdated, this has changed in SHOUTcast 2.5. But it currently is not deployed on the SHOUTca.st network due many known issues.
 Create the Authhash and we're set!
 
 Keep in mind, the AutoDJ or a live DJ can still tell the server not to be listed. This can be overwritten in the settings.
@@ -88,61 +78,9 @@ SHOUTcast v1 has not been updated for over 12 years and never will. Also there a
 SHOUTcast.com also decided to stop supporting SHOUTcast v1 for their directory. Very soon these servers won't be listed anymore.
 
 Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
-[block:callout]
-{
-  "type": "info",
-  "title": "Resellers",
-  "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
-}
-[/block]
-UTcast v1 for their directory. Very soon these servers won't be listed anymore.
-
-Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
-[block:callout]
-{
-  "type": "info",
-  "title": "Resellers",
-  "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
-}
-[/block]
-f your DNAS.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/pw499NjTsG4GOTrqsPAK_Schermafbeelding%202015-10-25%20om%2012.41.37.png",
-        "Schermafbeelding 2015-10-25 om 12.41.37.png",
-        "678",
-        "388",
-        "#2d69b1",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
-
-
-## Can I have SHOUTcast v1?
-
-SHOUTcast v1 has not been updated for over 12 years and never will. Also there are many bugs and even serious security vulnerabilities know to be in there. Therefore we decided to not offer SHOUTcast v1 servers anymore. 
-SHOUTcast.com also decided to stop supporting SHOUTcast v1 for their directory. Very soon these servers won't be listed anymore.
-
-Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
-[block:callout]
-{
-  "type": "info",
-  "title": "Resellers",
-  "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
-}
-[/block]
-UTcast v1 for their directory. Very soon these servers won't be listed anymore.
-
-Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
-[block:callout]
-{
-  "type": "info",
+> **Resellers**
+> ~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead.
+fo",
   "title": "Resellers",
   "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
 }

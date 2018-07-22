@@ -11,12 +11,7 @@ title: "Where can I find my services?"
 4. For Centova Cast services, press the login button and there you go!
 ![](https://images.shoutca.st/fsCTbMBWT7adF7Q4OzP2_viwA7hj.png)
 
-[block:callout]
-{
-  "type": "info",
-  "body": "For Cast servers, please refer to [How to log in to Control](//docs.shoutca.st/docs/log-in)."
-}
-[/block]
+> For Cast servers, please refer to [How to log in to Control](//docs.shoutca.st/docs/log-in).
 png",
         1153,
         437,
@@ -46,9 +41,7 @@ png",
 }
 [/block]
 
-[block:callout]
-{
-  "type": "info",
-  "body": "For Cast servers, please refer to [How to log in to Control](//docs.shoutca.st/docs/log-in)."
+> For Cast servers, please refer to [How to log in to Control](//docs.shoutca.st/docs/log-in).
+"body": "For Cast servers, please refer to [How to log in to Control](//docs.shoutca.st/docs/log-in)."
 }
 [/block]

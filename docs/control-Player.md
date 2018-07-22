@@ -3,12 +3,7 @@ title: "Player"
 
 ---
 Player is a HTML5 player widget designed to be responsive and modern. Player works on all modern browsers including mobile phones. Player also supports real time song info and album art out-of-the-box. You can enable yours for free in Control.
-[block:callout]
-{
-  "type": "info",
-  "body": "Player is only available for paid plans. Additionally, it is deeply tied to our system and cannot be used with other servers."
-}
-[/block]
+> Player is only available for paid plans. Additionally, it is deeply tied to our system and cannot be used with other servers.
 
 
 ## Sizes
@@ -74,3 +69,4 @@ efault cover art?"
 }
 [/block]
 As of November 2015, not yet. This code is currently in our development branch and will soon be available. This will also apply to the iPhone app.
+on be available. This will also apply to the iPhone app.

@@ -6,12 +6,7 @@ title: "Broadcasting tools"
 ## Broadcasting Live (using BUTT)
 
 
-[block:callout]
-{
-  "type": "info",
-  "body": "This guide is contributed by Rob Hayes. Thank you very much!"
-}
-[/block]
+> This guide is contributed by Rob Hayes. Thank you very much!
 For Broadcasting from a Live Source such as your DJ Mixer, you will first need the connection details of your service (these are available in your Centova Cast control panel under 'General' and then 'Live Source Connections'), make a note of these settings as you will need them soon.
 
 Once you have your details, you will then need to download a Free Broadcasting App Called 'BUTT', which is available here :
@@ -50,12 +45,7 @@ Hope this helps !
 ## IDJC-Internet DJ Console
 
 
-[block:callout]
-{
-  "type": "info",
-  "body": "This guide is contributed by NTROradio. Thank you very much!"
-}
-[/block]
+> This guide is contributed by NTROradio. Thank you very much!
 Their own description
 *Internet DJ Console is a project started in March 2005 to provide a powerful yet easy to use source-client for individuals interested in streaming live radio shows over the Internet using Shoutcast or Icecast servers.*
 For Linux desktop users this app is the ultimate in broadcasting live. It supports shoutcast and icecast and runs extremely well when linked to Shoutca.st's Cast servers or Airtime. It allows you to bring in guests and callers on Skype/Voip or Mumble to handle multiple guests. You can communicate with the guests on Skype/Voip both on the air and off the air. It's players will handle nearly any media file you want to play during the broadcast. It handles jingles and can even post now playing info to an irc channel. It also automates ducking for talking over a songs intro or outro, compression, noisegate, 3 band eq or you can route the audio out to other apps for audio processing. Plus it can handle multiple streams with different encoding so you can broadcast in different sample rates or syndicate your show on different stations, plus it will even record your broadcast to be replayed at a later date or you can post it as a podcast.
@@ -94,4 +84,6 @@ PS: want to broadcast your input devices? Look under input!
 
 
 PS: want to broadcast your input devices? Look under input!
+![Schermafbeelding 2015-06-25 om 18.19.50.png](https://i.imgur.com/brjfRmP.png)
+ input devices? Look under input!
 ![Schermafbeelding 2015-06-25 om 18.19.50.png](https://i.imgur.com/brjfRmP.png)

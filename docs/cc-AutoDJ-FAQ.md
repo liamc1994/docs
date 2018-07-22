@@ -9,13 +9,8 @@ You can change all those settings under Settings -> Mount Points -> (/stream) ->
 > A wrong sample rate can mess up your stream's quality. 44100Hz is always suggested unless you run a really low bitrate.
 ![](https://images.shoutca.st/s7hmhzSScSgjhP3Ovxp6_Schermafbeelding%202015-10-14%20om%2021.46.28.png)
 
-[block:callout]
-{
-  "type": "danger",
-  "title": "SHOUTcast",
-  "body": "If you are listed in the SHOUTcast directory you have to change the stream name in the DNAS too. For that see the [SHOUTcast FAQ](https://docs.shoutca.st/docs/shoutcast-faq#my-stream-titleurlgenre-does-not-change)"
-}
-[/block]
+> **"body": "If you are listed in the SHOUTcast directory you have to change the stream name in the DNAS too. For that see the [SHOUTcast FAQ](https://docs.shoutca.st/docs/shoutcast-faq#my-stream-titleurlgenre-does-not-change)"**
+> If you are listed in the SHOUTcast directory you have to change the stream name in the DNAS too. For that see the [SHOUTcast FAQ](https://docs.shoutca.st/docs/shoutcast-faq#my-stream-titleurlgenre-does-not-change)
 
 
 ## Liquidsoap won't start

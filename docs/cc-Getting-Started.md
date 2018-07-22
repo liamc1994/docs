@@ -18,13 +18,8 @@ This guide will explain how to enter Centova Cast from the client area:
 4) Press “Log in to Centova Cast” and there you go!
 ![Schermafbeelding 2015-04-07 om 16.53.20.png](https://i.imgur.com/viwA7hj.png)
 
-[block:callout]
-{
-  "type": "info",
-  "title": "Please note",
-  "body": "The statistics you can see on that page are only updated every 24 hours − so, don’t be surprised if it does not match your current limits."
-}
-[/block]
+> **Please note**
+> The statistics you can see on that page are only updated every 24 hours − so, don’t be surprised if it does not match your current limits.
 
 
 ## Getting Started
@@ -169,3 +164,4 @@ Forgot your Centova Cast password? No problem!
 
 4) Go to the 'Change Password' tab and reset your password
 ![Schermafbeelding 2015-04-05 om 19.55.11.png](https://i.imgur.com/N2KP9SL.png)
+ing 2015-04-05 om 19.55.11.png](https://i.imgur.com/N2KP9SL.png)
