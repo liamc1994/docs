@@ -25,7 +25,7 @@ With every paid plan we offer free apps for Android and iOS. These also help to 
 Many people discover radio stations via directories such as TuneIn and SHOUTcast.com. Being in those lists is important. We also suggest to add many relevant tags and a good description. Also a catchy name can help to get people attracted. 
 Here is a small list of radio directories we've found (own one yourself? Feel free to submit an edit suggestion)
 
->http://reciva.com
+>>>http://reciva.com
 http://streamdir.com
 http://radiotuna.com
 http://dirble.com
