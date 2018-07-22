@@ -17,11 +17,14 @@ const siteConfig = {
   // Used for publishing and more
   projectName: 'docs',
   organizationName: 'innovate-technologies',
+  editUrl: 'https://github.com/innovate-technologies/docs/edit/master/docs/',
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {href: 'https://shoutca.st', label: 'Home'},
-    {doc: 'general-advertise', label: 'Docs'},
+    {doc: 'general-Getting-Started-with-Internet-Radio', label: 'General'},
+    {doc: 'cast-About', label: 'Cast'},
+    {doc: 'cc-Centova-FAQ', label: 'Centova Cast'},
   ],
 
   /* colors for website */
