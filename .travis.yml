@@ -15,7 +15,7 @@ before_install:
   - sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
   - sudo apt-get update
   - sudo apt-get -y install docker-ce
-  - sudo apt-get -y install qemu qemu-user-static qemu-user binfmt-support
+  - sudo apt-get -y install qemu qemu-user-static qemu-user binfmt-support httpie
   - docker run --rm --privileged multiarch/qemu-user-static:register
 
 script:
@@ -25,4 +25,5 @@ after_success:
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then docker push $DOCKER_REPO:$ARCH-latest ; fi
   - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then docker tag $DOCKER_REPO:$ARCH-latest $DOCKER_REPO:$ARCH-$TRAVIS_COMMIT; docker push $DOCKER_REPO:$ARCH-$TRAVIS_COMMIT ; fi
+  - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then http PUT https://docs-controller.innovatete.ch/deployment/$TRAVIS_COMMIT Authorization:"Bearer $HELMET_TOKEN" ; fi
   
