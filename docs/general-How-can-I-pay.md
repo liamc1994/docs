@@ -13,9 +13,7 @@ You can pay in British Pounds (GBP), US Dollars (USD) and Euros (EUR). You will 
 
 ## Do you charge automatically?
 
-We don't store any credit card details for security, therefore we can't automatically charge it every month. If you like this we suggest PayPal or Direct Debit.
-
-If you want to use PayPal, select PayPal as your payment method for your invoice and use the *Subscribe* button there. PayPal will then automatically send money to us every month. (the button is only visible on invoices on first order and invoices paid before the due date)
+We do charge credit/debit cards and direct debit automatically. If you want this behaviour turned off you can create a support ticket for this.
 
 To use Direct Debit (EUR, GBP only) make sure this is your default payment method on your account. To do this open "Edit Account Details"
 ![](https://images.shoutca.st/5c29ba6-Screenshot_from_2017-07-26_11-47-49.png)
@@ -23,8 +21,6 @@ To use Direct Debit (EUR, GBP only) make sure this is your default payment metho
 ![](https://images.shoutca.st/bcff611-Screenshot_from_2017-07-26_11-47-07.png)
 There under payment method select "Direct Debit (GoCardless). Then save the settings.
 To complete the setup make sure you have paid at least one invoice with Direct Debit setup. 
-> **"title": "PayPal subscriptions"**
-> We have no access to your PayPal subscription, so don't forget to change or cancel it when needed.,
 
 
 ## My card payment failed
