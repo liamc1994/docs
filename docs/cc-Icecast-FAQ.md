@@ -43,12 +43,8 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
 4) Set the Local mount point to the one you want (by default /stream)
 5) Make sure you relay metadata to show song info in your stream.
 6) Leave the rest blank and save your settings
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
+![](https://images.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png)
+mages.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
         "Schermafbeelding 2015-11-25 om 11.06.06.png",
         "1494",
         "1016",
@@ -59,7 +55,7 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
   ]
 }
 [/block]
-mages.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
+i63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png",
         "Schermafbeelding 2015-11-25 om 11.06.06.png",
         "1494",
         "1016",

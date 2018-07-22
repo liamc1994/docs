@@ -33,74 +33,15 @@ The stream title not changing is a common heard issue. This is because SHOUTcast
 ## How can I get listed on the SHOUTcast.com directory?
 
 First of all we need to go to the admin interface of SHOUTcast itself. To do this go to Centova Cast and in the side bar you can find "Admin". 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/fef0d8e-Schermafbeelding_2016-07-27_om_12.03.24.png",
-        "Schermafbeelding 2016-07-27 om 12.03.24.png",
-        450,
-        202,
-        "#e2e2e2"
-      ],
-      "caption": "Server section with the \"Admin\" button"
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/fef0d8e-Schermafbeelding_2016-07-27_om_12.03.24.png)
 Now we're at the SHOUTcast DNAS status page. Up in the menu you can find "Server Login", make sure not to go to "Stream Login".
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/aa5f15b-Schermafbeelding_2016-07-27_om_12.04.34.png",
-        "Schermafbeelding 2016-07-27 om 12.04.34.png",
-        1046,
-        148,
-        "#474f59"
-      ],
-      "sizing": "smart"
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/aa5f15b-Schermafbeelding_2016-07-27_om_12.04.34.png)
 You'll be prompted for the username and password. The username is "admin" and the password is the account of your Centova Cast account.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/b1d7e79-Schermafbeelding_2016-07-27_om_12.05.48.png",
-        "Schermafbeelding 2016-07-27 om 12.05.48.png",
-        844,
-        422,
-        "#eaeaea"
-      ],
-      "sizing": "80"
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/b1d7e79-Schermafbeelding_2016-07-27_om_12.05.48.png)
 Now you get an overview of your streams. With each one there is an option to create an Authhash. This is what you need.
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/6d9db96-Schermafbeelding_2016-07-27_om_12.09.41.png",
-        "Schermafbeelding 2016-07-27 om 12.09.41.png",
-        1672,
-        1112,
-        "#ededec"
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/6d9db96-Schermafbeelding_2016-07-27_om_12.09.41.png)
 
 [block:callout]
 {
@@ -113,37 +54,9 @@ Create the Authhash and we're set!
 Keep in mind, the AutoDJ or a live DJ can still tell the server not to be listed. This can be overwritten in the settings.
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/7ec2315-Schermafbeelding_2016-07-27_om_12.11.33.png",
-        "Schermafbeelding 2016-07-27 om 12.11.33.png",
-        2198,
-        1076,
-        "#ebebeb"
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/7ec2315-Schermafbeelding_2016-07-27_om_12.11.33.png)
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/0cc3859-Schermafbeelding_2016-07-27_om_12.06.32.png",
-        "Schermafbeelding 2016-07-27 om 12.06.32.png",
-        1220,
-        552,
-        "#dcdad6"
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/0cc3859-Schermafbeelding_2016-07-27_om_12.06.32.png)
 
 
 ## How to relay a stream?
@@ -154,22 +67,7 @@ To set one up:
 1) Go to Settings in Centova Cast, then Mount Moints. 
 2) Select your stream (/stream by default) then Relaying, make sure the AutoDJ is turned off in the AutoDJ tab or it will not allow you to set it up.
 3) Enter the url to relay. 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/JroErpTpRv2m1Jtb8eI1_Schermafbeelding%202015-10-17%20om%2018.33.15.png",
-        "Schermafbeelding 2015-10-17 om 18.33.15.png",
-        "2162",
-        "994",
-        "#924c0e",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/JroErpTpRv2m1Jtb8eI1_Schermafbeelding%202015-10-17%20om%2018.33.15.png)
 This needs to be the full URL of the stream eg. http://hubble.shoutca.st:8411/stream/1 or http://hubble.shoutca.st:8411/;
 For SHOUTcast these typically end on  /stream/x or ;, for Icecast they end with the name of te mount point (eg. /stream) and for cast they end in /streams/x (x is the bitrate/stream name)
 4) Press update and restart the server.
@@ -181,6 +79,33 @@ If you have ordered SHOUTcast v2 (v1 is not being sold anymore) and under Quick 
 ## What is my SID?
 
 SID stands for Stream ID, it is the number of the stream (mount point) on the server. By default this is 1, however if you have added more I suggest checking it on the home page of your DNAS.
+![](https://images.shoutca.st/pw499NjTsG4GOTrqsPAK_Schermafbeelding%202015-10-25%20om%2012.41.37.png)
+
+
+## Can I have SHOUTcast v1?
+
+SHOUTcast v1 has not been updated for over 12 years and never will. Also there are many bugs and even serious security vulnerabilities know to be in there. Therefore we decided to not offer SHOUTcast v1 servers anymore. 
+SHOUTcast.com also decided to stop supporting SHOUTcast v1 for their directory. Very soon these servers won't be listed anymore.
+
+Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
+[block:callout]
+{
+  "type": "info",
+  "title": "Resellers",
+  "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
+}
+[/block]
+UTcast v1 for their directory. Very soon these servers won't be listed anymore.
+
+Existing SHOUTcast v1 clients are migrated over to SHOUTcast v2. (Centova will still indicate v1 as of a system limitation) More info see [https://status.shoutca.st/incident/597](https://status.shoutca.st/incident/597)
+[block:callout]
+{
+  "type": "info",
+  "title": "Resellers",
+  "body": "~~**Some** resellers can still create SHOUTcast v1 servers.~~ As of January 2017 these will create SHOUTcast v2 servers instead."
+}
+[/block]
+f your DNAS.
 [block:image]
 {
   "images": [

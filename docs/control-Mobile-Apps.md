@@ -6,92 +6,15 @@ title: "Mobile Apps"
 ## Requesting your apps
 
 In Control, click on *Manage* in the navigation bar.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/NhuzgsVWTIDp9JKBhmla_hqGBv73.png",
-        "hqGBv73.png",
-        "117",
-        "68",
-        "#3a73bf",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/NhuzgsVWTIDp9JKBhmla_hqGBv73.png)
 Still in the navigation bar, select the service for which you wish to request apps by clicking on the service switcher.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/2EHepN3iTqepDxoCyAvM_CywNNUd.png",
-        "CywNNUd.png",
-        "210",
-        "64",
-        "#b06137",
-        ""
-      ],
-      "caption": "The service switcher"
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/2EHepN3iTqepDxoCyAvM_CywNNUd.png)
 
-[block:image]
-{
-  "images": [
-    {
-      "caption": "The service switcher list",
-      "image": [
-        "https://images.shoutca.st/adv20t3LTziXn5vNOR82_WbdrIVZ.png",
-        "WbdrIVZ.png",
-        "548",
-        "260",
-        "#34b179",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/adv20t3LTziXn5vNOR82_WbdrIVZ.png)
 In the sidebar, click on *Mobile Apps*.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/0cX3iclpSWmVB5lyrL6b_gD7sSAy.png",
-        "gD7sSAy.png",
-        "313",
-        "178",
-        "#24ac64",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/0cX3iclpSWmVB5lyrL6b_gD7sSAy.png)
 Click on *Submit a request* to submit an app request for your service.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/KtcoURmUSji9AZoT4qhh_DwDg1U2.png",
-        "DwDg1U2.png",
-        "875",
-        "129",
-        "#a95f37",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/KtcoURmUSji9AZoT4qhh_DwDg1U2.png)
 Fill in the form properly without ignoring the guidelines and tips, then submit the form. Control will then reload to confirm your submission.
 
 You will be notified whenever your app is submitted and if there are any issues with your request.
@@ -158,26 +81,40 @@ In both cases, you have to go to the app request details page in [Control](https
 You have the possibility of hosting your Android app on your own Google Play Developer account.
 
 On the request details page, edit the app request, then tick the "Self-hosted" checkbox.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/DA2ci8cQ5WCGDFRbaRiw_Schermafbeelding%202016-03-26%20om%2014.07.32.png",
-        "Schermafbeelding 2016-03-26 om 14.07.32.png",
-        "1518",
-        "456",
-        "#a3632f",
-        ""
-      ],
-      "caption": "Self-hosted button on the app updata page"
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/DA2ci8cQ5WCGDFRbaRiw_Schermafbeelding%202016-03-26%20om%2014.07.32.png)
 Save the request, then wait for the app to be built by us. You'll get an email once it is ready.
 
 Once it has been processed (you'll get an email), you'll find the link to download your APK as well as the screenshots to use for the Play Store listing on that page.
+![](https://images.shoutca.st/Imu0nUSdQau3nly1XCbL_Schermafbeelding%202016-03-26%20om%2014.16.10.png)
+To publish an app, simply open the [Google Play developer console](https://play.google.com/apps/publish/) (not to be confused with the browser's developer console), then click on "Add new application" and follow the steps.
+
+## Unpublishing your app(s) from the app store(s)
+
+This cannot be done automatically in Control. You'll have to request this by opening a ticket (mentioning your app name and your username).
+
+## I don't have any SHOUTca.st services. Can I order a custom mobile app?
+
+Unfortunately, this is not possible. Having a streaming service with us is mandatory for our mobile apps to work properly.
+
+## Can I have the source code?
+
+Our apps are not open source.
+our app name and your username).
+[block:api-header]
+{
+  "type": "basic",
+  "title": "I don't have any SHOUTca.st services. Can I order a custom mobile app?"
+}
+[/block]
+Unfortunately, this is not possible. Having a streaming service with us is mandatory for our mobile apps to work properly.
+[block:api-header]
+{
+  "type": "basic",
+  "title": "Can I have the source code?"
+}
+[/block]
+Our apps are not open source.
+on that page.
 [block:image]
 {
   "images": [

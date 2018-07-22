@@ -23,37 +23,9 @@ We don't store any credit card details for security, therefore we can't automati
 If you want to use PayPal, select PayPal as your payment method for your invoice and use the *Subscribe* button there. PayPal will then automatically send money to us every month. (the button is only visible on invoices on first order and invoices paid before the due date)
 
 To use Direct Debit (EUR, GBP only) make sure this is your default payment method on your account. To do this open "Edit Account Details"
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/5c29ba6-Screenshot_from_2017-07-26_11-47-49.png",
-        "Screenshot from 2017-07-26 11-47-49.png",
-        323,
-        125,
-        "#efefee"
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/5c29ba6-Screenshot_from_2017-07-26_11-47-49.png)
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/bcff611-Screenshot_from_2017-07-26_11-47-07.png",
-        "Screenshot from 2017-07-26 11-47-07.png",
-        630,
-        91,
-        "#eff3f5"
-      ]
-    }
-  ]
-}
-[/block]
+![](https://images.shoutca.st/bcff611-Screenshot_from_2017-07-26_11-47-07.png)
 There under payment method select "Direct Debit (GoCardless). Then save the settings.
 To complete the setup make sure you have paid at least one invoice with Direct Debit setup. 
 [block:callout]
@@ -85,6 +57,10 @@ In most cases, if you cannot pay via PayPal, you still have the option of using 
 ## What are funds/credit
 
 In the Client Area you can add funds to your account. These will be credited on your account and used to auto-pay all future invoices (note: if you have invoices open the funds will not cover those). 
+![](https://images.shoutca.st/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png)
+ces open the funds will not cover those). 
+![](https://images.shoutca.st/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png)
+account. These will be credited on your account and used to auto-pay all future invoices (note: if you have invoices open the funds will not cover those). 
 [block:image]
 {
   "images": [

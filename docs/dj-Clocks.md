@@ -13,12 +13,14 @@ You must have a clock active for a specific day or time. DJ will always resume t
 ## How clocks are used
 
 
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/QsCtoREiQdeeKkC61YwP_Clocks.png",
+![](https://images.shoutca.st/QsCtoREiQdeeKkC61YwP_Clocks.png)
+    ""
+      ],
+      "border": false
+    }
+  ]
+}
+[/block]
         "Clocks.png",
         "960",
         "720",
