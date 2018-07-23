@@ -9,53 +9,14 @@ Player is a HTML5 player widget designed to be responsive and modern. Player wor
 ## Sizes
 
 Player is available in different formats. The possibilities are endless but here are some examples you can find.
-[block:embed]
-{
-  "html": false,
-  "url": "https://player.shoutca.st/?username=opencast",
-  "title": "Player",
-  "favicon": null,
-  "iframe": true,
-  "width": "300",
-  "height": "60"
-}
-[/block]
 
-[block:embed]
-{
-  "html": false,
-  "url": "https://player.shoutca.st/?username=opencast",
-  "title": "Player",
-  "favicon": null,
-  "iframe": true,
-  "width": "300",
-  "height": "150"
-}
-[/block]
+<iframe style="width: 300px; height: 60px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
 
-[block:embed]
-{
-  "html": false,
-  "url": "https://player.shoutca.st/?username=opencast",
-  "title": "Player",
-  "favicon": null,
-  "iframe": true,
-  "width": "300",
-  "height": "450"
-}
-[/block]
+<iframe style="width: 300px; height: 150px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
 
-[block:embed]
-{
-  "html": false,
-  "url": "https://player.shoutca.st/?username=opencast",
-  "title": "Player",
-  "favicon": null,
-  "iframe": true,
-  "width": "550",
-  "height": "550"
-}
-[/block]
+<iframe style="width: 300px; height: 450px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
+
+<iframe style="width: 540px; height: 540px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
 
 
 ## Where can I find Player?
