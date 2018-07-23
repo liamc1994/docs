@@ -7,6 +7,7 @@ title: "AutoDJ FAQ"
 You can change all those settings under Settings -> Mount Points -> (/stream) -> AutoDJ Settings
 
 > A wrong sample rate can mess up your stream's quality. 44100Hz is always suggested unless you run a really low bitrate.
+
 ![](https://images.shoutca.st/s7hmhzSScSgjhP3Ovxp6_Schermafbeelding%202015-10-14%20om%2021.46.28.png)
 
 > If you are listed in the SHOUTcast directory you have to change the stream name in the DNAS too. For that see the [SHOUTcast FAQ](https://docs.shoutca.st/docs/shoutcast-faq#my-stream-titleurlgenre-does-not-change)
@@ -40,52 +41,3 @@ Due limitations this is not possible as it would have to kick all listeners of t
 
 You can try to turn of replay gain. This is made to let all tracks be at the same volume but in Centova's implementation this can go wrong sometimes. You can turn it off in Settings -> AutoDJ. Don't forget to restart the server afterwards.
 ![](https://images.shoutca.st/BoV8vzCpQMeDGbXRwQNe_Schermafbeelding%202016-05-04%20om%2018.08.08.png)
-ge]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/BoV8vzCpQMeDGbXRwQNe_Schermafbeelding%202016-05-04%20om%2018.08.08.png",
-        "Schermafbeelding 2016-05-04 om 18.08.08.png",
-        "480",
-        "104",
-        "#3486e3",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
-eplay gain. This is made to let all tracks be at the same volume but in Centova's implementation this can go wrong sometimes. You can turn it off in Settings -> AutoDJ. Don't forget to restart the server afterwards.
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/BoV8vzCpQMeDGbXRwQNe_Schermafbeelding%202016-05-04%20om%2018.08.08.png",
-        "Schermafbeelding 2016-05-04 om 18.08.08.png",
-        "480",
-        "104",
-        "#3486e3",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
-ge]
-{
-  "images": [
-    {
-      "image": [
-        "https://images.shoutca.st/BoV8vzCpQMeDGbXRwQNe_Schermafbeelding%202016-05-04%20om%2018.08.08.png",
-        "Schermafbeelding 2016-05-04 om 18.08.08.png",
-        "480",
-        "104",
-        "#3486e3",
-        ""
-      ]
-    }
-  ]
-}
-[/block]
