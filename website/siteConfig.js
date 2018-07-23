@@ -26,6 +26,7 @@ const siteConfig = {
     {href: 'https://shoutca.st', label: 'Home'},
     {doc: 'general-Getting-Started-with-Internet-Radio', label: 'General'},
     {doc: 'cast-About', label: 'Cast'},
+    {doc: 'control-Logging-in', label: 'Control'},
     {doc: 'cc-Centova-FAQ', label: 'Centova Cast'},
   ],
 
