@@ -41,3 +41,8 @@ Due limitations this is not possible as it would have to kick all listeners of t
 
 You can try to turn of replay gain. This is made to let all tracks be at the same volume but in Centova's implementation this can go wrong sometimes. You can turn it off in Settings -> AutoDJ. Don't forget to restart the server afterwards.
 ![](https://images.shoutca.st/BoV8vzCpQMeDGbXRwQNe_Schermafbeelding%202016-05-04%20om%2018.08.08.png)
+
+## I am seeing weird codes im the song titless
+
+This means you have enabled "Song title codes" in the Centova Cast settings.
+![song title code setting](https://images.shoutca.st/Screenshot%20from%202018-07-23%2009-25-43.png)
