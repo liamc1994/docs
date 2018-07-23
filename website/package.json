@@ -347,7 +347,7 @@
     "is-typedarray": "^1.0.0",
     "is-url": "^1.2.4",
     "is-utf8": "^0.2.1",
-    "is-valid-glob": "^0.3.0",
+    "is-valid-glob": "^1.0.0",
     "isarray": "^0.0.1",
     "is2": "^0.0.9",
     "is-zip": "^1.0.0",
