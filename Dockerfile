@@ -1,5 +1,5 @@
 ARG ARCH
-FROM node:8 as build
+FROM node:10 as build
 
 COPY ./ /opt/docs
 WORKDIR /opt/docs/website
