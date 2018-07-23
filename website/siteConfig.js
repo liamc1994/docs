@@ -38,6 +38,12 @@ const siteConfig = {
     secondaryColor: '#2ADF7A',
   },
 
+  algolia: {
+    apiKey: '6a6cf0ee08f45068c4f3eae2b5fa9b0c',
+    indexName: 'docs-staging',
+    algoliaOptions: {} // Optional, if provided by Algolia
+  },
+
   /* custom fonts for website */
   /*fonts: {
     myFont: [
