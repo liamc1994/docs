@@ -12,11 +12,19 @@ Player is available in different formats. The possibilities are endless but here
 
 <iframe style="width: 300px; height: 60px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
 
+mini
+
 <iframe style="width: 300px; height: 150px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
+
+small
 
 <iframe style="width: 300px; height: 450px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
 
+large
+
 <iframe style="width: 540px; height: 540px; border: 0;" src="https://player.shoutca.st/?username=opencast"></iframe>
+
+full
 
 
 ## Where can I find Player?
