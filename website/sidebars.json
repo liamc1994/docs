@@ -16,6 +16,13 @@
       "cast-GeoLock",
       "cast-Statistics"
     ],
+    "Control": [
+      "control-Logging-in",
+      "control-Player",
+      "control-TuneIn-AIR-Integration",
+      "control-Mobile-Apps",
+      "control-NowPlaying-Tweets"
+    ],
     "Centova Cast": [
       "cc-Getting-Started",
       "cc-Centova-FAQ",
@@ -36,7 +43,6 @@
       "dj-Beta-FAQ",
       "dj-Clocks",
       "dj-Tags",
-      "dj-Upload",
       "dj-Intervals"
     ],
     "API": [
