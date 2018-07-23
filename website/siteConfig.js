@@ -39,6 +39,7 @@ const siteConfig = {
   },
 
   algolia: {
+    appId: 'LPXTY9N92L',
     apiKey: '6a6cf0ee08f45068c4f3eae2b5fa9b0c',
     indexName: 'docs-staging',
     algoliaOptions: {} // Optional, if provided by Algolia
