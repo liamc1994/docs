@@ -477,7 +477,7 @@
     "postcss-discard-empty": "^2.1.0",
     "postcss-calc": "^5.3.1",
     "postcss-discard-unused": "^2.2.3",
-    "postcss-filter-plugins": "^2.0.3",
+    "postcss-filter-plugins": "^3.0.1",
     "postcss-merge-idents": "^2.1.7",
     "postcss-merge-longhand": "^2.0.2",
     "postcss-merge-rules": "^2.1.2",
