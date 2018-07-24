@@ -535,7 +535,7 @@
     "repeat-element": "^1.1.2",
     "repeat-string": "^1.6.1",
     "remarkable": "^1.7.1",
-    "repeating": "^2.0.1",
+    "repeating": "^3.0.0",
     "replace-ext": "^0.0.1",
     "safe-buffer": "^5.1.2",
     "rimraf": "^2.6.2",
