@@ -42,8 +42,9 @@ In most cases, if you cannot pay via PayPal, you still have the option of using 
 
 ## What are funds/credit
 
-In the Client Area you can add funds to your account. These will be credited on your account and used to auto-pay all future invoices (note: if you have invoices open the funds will not cover those). 
-![](https://images.shoutca.st/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png)
-ces open the funds will not cover those). 
-![](https://images.shoutca.st/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png)
-account. These will be credited on your account and used to auto-pay all future invoices (note: if you have invoices open the funds will not cover those). 
+In the Client Area you can add funds to your account. These will be credited on your account like a "pay to go" plan and used to auto-pay all future invoices (note: if you have invoices open the funds will **not** cover those). 
+![add funds in the client area menu](https://images.shoutca.st/b64be2c-Schermafbeelding_2017-03-03_om_09.07.00.png)
+
+On the same page you can check what your current balance is. 
+![Credit balance in add funds](https://images.shoutca.st/Screenshot%20from%202018-07-24%2018-14-55.png)
+
