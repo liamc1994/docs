@@ -11,7 +11,7 @@
 const siteConfig = {
   title: 'SHOUTca.st Docs' /* title for your website */,
   tagline: '',
-  url: 'https://docs-staging.shoutca.st' /* your website url */,
+  url: 'https://docs.shoutca.st' /* your website url */,
   baseUrl: '/' /* base url for your project */,
 
   noIndex: false,
