@@ -430,7 +430,7 @@
     "normalize-package-data": "^2.4.0",
     "node-status-codes": "^2.0.1",
     "normalize-range": "^0.1.2",
-    "normalize-url": "^1.9.1",
+    "normalize-url": "^3.2.0",
     "normalize-path": "^2.1.1",
     "npm-run-path": "^2.0.2",
     "num2fraction": "^1.2.2",
