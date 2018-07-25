@@ -46,6 +46,7 @@ Hope this helps !
 
 
 > This guide is contributed by NTROradio. Thank you very much!
+
 Their own description
 *Internet DJ Console is a project started in March 2005 to provide a powerful yet easy to use source-client for individuals interested in streaming live radio shows over the Internet using Shoutcast or Icecast servers.*
 For Linux desktop users this app is the ultimate in broadcasting live. It supports shoutcast and icecast and runs extremely well when linked to Shoutca.st's Cast servers or Airtime. It allows you to bring in guests and callers on Skype/Voip or Mumble to handle multiple guests. You can communicate with the guests on Skype/Voip both on the air and off the air. It's players will handle nearly any media file you want to play during the broadcast. It handles jingles and can even post now playing info to an irc channel. It also automates ducking for talking over a songs intro or outro, compression, noisegate, 3 band eq or you can route the audio out to other apps for audio processing. Plus it can handle multiple streams with different encoding so you can broadcast in different sample rates or syndicate your show on different stations, plus it will even record your broadcast to be replayed at a later date or you can post it as a podcast.
