@@ -479,7 +479,7 @@
     "postcss-discard-unused": "^2.2.3",
     "postcss-filter-plugins": "^3.0.1",
     "postcss-merge-idents": "^2.1.7",
-    "postcss-merge-longhand": "^2.0.2",
+    "postcss-merge-longhand": "^4.0.3",
     "postcss-merge-rules": "^2.1.2",
     "postcss-message-helpers": "^2.0.0",
     "postcss-minify-gradients": "^1.0.5",
