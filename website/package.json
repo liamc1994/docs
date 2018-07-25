@@ -246,7 +246,7 @@
     "filenamify": "^1.2.1",
     "fill-range": "^2.2.4",
     "find-versions": "^1.2.1",
-    "find-up": "^1.1.2",
+    "find-up": "^3.0.0",
     "finalhandler": "^1.1.1",
     "for-own": "^0.1.5",
     "foreach": "^2.0.5",
