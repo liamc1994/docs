@@ -476,7 +476,7 @@
     "postcss-discard-duplicates": "^2.1.0",
     "postcss-discard-empty": "^2.1.0",
     "postcss-calc": "^5.3.1",
-    "postcss-discard-unused": "^2.2.3",
+    "postcss-discard-unused": "^4.0.0",
     "postcss-filter-plugins": "^3.0.1",
     "postcss-merge-idents": "^2.1.7",
     "postcss-merge-longhand": "^2.0.2",
