@@ -635,7 +635,7 @@
     "utils-merge": "^1.0.1",
     "validate-npm-package-license": "^3.0.3",
     "vary": "^1.1.2",
-    "vinyl": "^1.2.0",
+    "vinyl": "^2.2.0",
     "vendors": "^1.0.2",
     "vinyl-assign": "^1.2.1",
     "verror": "^1.10.0",
