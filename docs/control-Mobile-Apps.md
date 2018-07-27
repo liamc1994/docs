@@ -3,6 +3,22 @@ title: "Mobile Apps"
 
 ---
 
+## Apple and Google banning tempated apps
+
+Some time ago Apple started banning templated apps. This caused us being unable to offer iOS apps anymore. Recently Google announced to start banning templated apps from their Play Store also. This might mean that your app will get removed from the Play store or a new app might get rejected.
+
+### What are templated apps?
+
+Templated apps are apps that share mostly the same codebase but are modified in for example looks or in minor ways. These include our apps, as well as apps from some of our collegues. This is also the case for app code bases you can buy to modify. Apple and Google plan to find these (which is easy as they share the same code) and delete them. 
+
+### Can you make a non-tempated app?
+
+That is almost impossible unless we set toghether with every client and design their app from scratch. We would be unable to offer apps at a competitive price this way. SHOUTca.st is also not a mobile app consultancy firm and has no plans to offer on demand app development work. We will still do our best to offer our apps to our customers
+
+### What is the long term plan?
+
+Our current plan is to make a radio directory app which is ad free and free to use with the option for the SHOUTca.st clients to customize the app's look when their station is playing, as well as integrate social media, messaging, etc.
+
 ## Requesting your apps
 
 In Control, click on *Manage* in the navigation bar.
