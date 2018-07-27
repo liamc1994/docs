@@ -9,4 +9,4 @@ If you need HTTPS, you can also use https:// (eg. https://meyskens.radioca.st/).
 
 Should this not work 24 hours after activating your account please contact our support team.
 
-> Icecast 2.4 will report incorrect listener IPs when this is used. This will soon be fixed in version 2.5. You can fillow the process on [the Icecast feature tracker](https://gitlab.xiph.org/xiph/icecast-server/issues/1959)
+> Icecast 2.4 will report incorrect listener IPs when this is used. This will soon be fixed in version 2.5. You can follow the process on [the Icecast feature tracker](https://gitlab.xiph.org/xiph/icecast-server/issues/1959)
