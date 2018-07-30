@@ -5,8 +5,7 @@ title: "SHOUTcast FAQ"
 
 ## My server says it needs an update
 
-SHOUTcast 2.5 has a bug in it's core that causes buffering issues along with some API issues. To maintain stream quality we decided to stay with 2.4.7 till a new release comes out that we have tested not to have this issue.
-> A few servers now run 2.5 as a test. We will be evaluating and upgrading all others soon.
+You may need to restart your server for the update to apply. All our servers now (july 2018) run on SHOUTcast 2.5. All new updates are tested by our team to assure your station stays up should there be a bug in the new release, that's why updates might be rolled out by some delay. In the past this proved to be helpful.
 
 ## Why is my stream private?
 
