@@ -165,3 +165,8 @@ Forgot your Centova Cast password? No problem!
 4) Go to the 'Change Password' tab and reset your password
 ![Schermafbeelding 2015-04-05 om 19.55.11.png](https://i.imgur.com/N2KP9SL.png)
 ing 2015-04-05 om 19.55.11.png](https://i.imgur.com/N2KP9SL.png)
+
+## Centova Cast keeps rejecting my password
+
+Centova Cast has a security feature that it will block your IP for one hour after too many failed login attempts. If this is the case you will see the error message: "Too many failed login attempts; please try again later."
+![Too many failed login attempts; please try again later.](https://images.shoutca.st/Screenshot%20from%202018-07-30%2014-36-02.png)
