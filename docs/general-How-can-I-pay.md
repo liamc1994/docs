@@ -22,6 +22,9 @@ To use Direct Debit (EUR, GBP only) make sure this is your default payment metho
 There under payment method select "Direct Debit (GoCardless). Then save the settings.
 To complete the setup make sure you have paid at least one invoice with Direct Debit setup. 
 
+### Why did you discontinue PayPal subscriptions?
+
+We have changed the way our system handles foreigh exchange rates, these now can change over time to reflect the actual rate. PayPal Subscriptions work like a "standing order" and send a specific amount of money on a specific date, with us being unable to change this. This caused issues on up/downgrades as well as exchange rates. This also affects usage based plans like Cast with DJ and the Pro+ plan. This is why we disabled this feature and replaced it with automatic card and direct debit payments, unlike PayPal these allow us to take a different amount every month,
 
 ## My card payment failed
 
