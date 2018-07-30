@@ -30,6 +30,12 @@ If you still see a charge on your account, that can be a *pending* charge. Meani
 
 In case you get any error on the payment we suggest contacting your bank for the exact reason for the failure or trying an alternative method such as PayPal.
 
+## Remove my card or cancel direct debit
+
+If you want to remove your card or cancel your direct debit you can do this in the Client Area under Billing -> Manage Credit Card. This page will allow you to save a new credit or debit card or to delete your existing one.
+
+![screenshot of card page](https://images.shoutca.st/Screenshot%20from%202018-07-30%2009-55-15.png)
+
 ## Can I pay with X?
 
 We already offer a lot of different payment methods which are accessible to most, if not all people. We probably won't add any more unless there is a big demand, as adding new payment methods costs money and time to us.
