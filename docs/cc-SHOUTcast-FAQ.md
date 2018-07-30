@@ -63,6 +63,16 @@ This needs to be the full URL of the stream eg. http://hubble.shoutca.st:8411/st
 For SHOUTcast these typically end on  /stream/x or ;, for Icecast they end with the name of te mount point (eg. /stream) and for cast they end in /streams/x (x is the bitrate/stream name)
 4) Press update and restart the server.
 
+## How to block an IP
+
+To block an individual IP in SHOUTcast you need to log into [the DNAS as admin](https://docs.shoutca.st/docs/cc-SHOUTcast-FAQ.html#can-i-access-my-shoutcast-server-s-administrator-summary). In the top menu select "Ban List".
+![SHOUTcast DNAS menu](https://images.shoutca.st/Screenshot%20from%202018-07-30%2015-13-08.png)
+
+Here you can ban a single IP or a whole subnet.
+![ban list page](https://images.shoutca.st/Screenshot%20from%202018-07-30%2015-13-31.png)
+
+> Be careful not to ban the localhost or the server's own IP. This could result in Centova Cast breaking.
+
 ## Why does my server says SHOUTcast v1?
 
 If you have ordered SHOUTcast v2 (v1 is not being sold anymore) and under Quick Links you see v1 you still have v2. The reason you see v1 thee is because most connections you connect to the AutoDJ so it can shut itself down when you are live. The AutoDJ doesn't support the SHOUTcast v2 protocol. That is why you will see v1 there.
