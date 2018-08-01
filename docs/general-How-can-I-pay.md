@@ -6,10 +6,11 @@ We accept all major credit and debit cards such as Visa, MasterCard, Maestro, Di
 
 ## What currencies can I pay in?
 
-You can pay in British Pounds (GBP), US Dollars (USD) and Euros (EUR). You will keep paying the price you see on your first invoice, so if you chose Euro, you will keep paying that price in Euro and are not affected by any changes in the currency market.
-> **A special case: discounts**
-> Some discounts only apply for the initial invoice. This means that you will pay a discounted price for the first invoice, and the full price for subsequent invoices.
+You can pay in British Pounds (GBP), US Dollars (USD) and Euros (EUR). We will update the price once a month to reflect the current exchange rate. We do not charge any fees on these unlike most banks do. 
 
+### Can i change my currency
+
+No. Our billing system doesn't allow this. If you do want to change this we advice to create a new account with the correct currency and ask our support to move your services to the new account. 
 
 ## Do you charge automatically?
 
