@@ -26,7 +26,7 @@ This guide will explain how to enter Centova Cast from the client area:
 
 Welcome to the SHOUTca.st family! New to Centova Cast? Don't worry we all were once! 
 
-First of all we have to find it, [this can help you a lot!](https://community.shoutca.st/topic/26/first-aid-where-to-find-centova-cast)
+First of all we have to find it, [this can help you a lot!](https://docs.shoutca.st/docs/cc-Getting-Started.html#where-to-find-centova-cast)
 
 The first question I have to ask is if you want to use the AutoDJ or not?
 
@@ -38,7 +38,7 @@ Then go to "Quick Links" and use the details under **"autoDJ is not running"** t
 That's all folks! Happy Streaming!
 
 **If you want to use the AutoDJ, pick up here!**
-First make sure it is enabled, [you can find instructions on that here.](https://docs.shoutca.st/docs/getting-started-1#where-is-the-autodj)
+First make sure it is enabled, [you can find instructions on that here.](https://docs.shoutca.st/docs/cc-Getting-Started.html#where-is-the-autodj)
 While we are in settings you can change some basic settings
 Under Stream:
 ![Schermafbeelding 2015-06-12 om 21.28.32.png](https://i.imgur.com/O4tBb7C.png) 
