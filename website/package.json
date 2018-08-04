@@ -469,7 +469,7 @@
     "pinkie": "^2.0.4",
     "pinkie-promise": "^2.0.1",
     "postcss-colormin": "^2.2.2",
-    "postcss": "^5.2.18",
+    "postcss": "^7.0.2",
     "p-finally": "^1.0.0",
     "postcss-convert-values": "^2.6.1",
     "postcss-discard-comments": "^2.0.4",
