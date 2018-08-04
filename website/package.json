@@ -493,7 +493,7 @@
     "postcss-reduce-initial": "^1.0.1",
     "postcss-reduce-transforms": "^1.0.4",
     "postcss-svgo": "^2.1.6",
-    "postcss-selector-parser": "^2.2.3",
+    "postcss-selector-parser": "^4.0.0",
     "postcss-value-parser": "^3.3.0",
     "postcss-unique-selectors": "^2.0.2",
     "postcss-zindex": "^2.2.0",
