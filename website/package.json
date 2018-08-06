@@ -187,7 +187,7 @@
     "decompress-tar": "^3.1.0",
     "decompress-tarbz2": "^4.1.1",
     "decamelize": "^1.2.0",
-    "decompress-targz": "^3.1.0",
+    "decompress-targz": "^4.1.1",
     "deep-is": "^0.1.2",
     "deep-extend": "^0.5.1",
     "decompress-unzip": "^3.4.0",
