@@ -622,7 +622,7 @@
     "uniq": "^1.0.1",
     "universalify": "^0.1.1",
     "uniqs": "^2.0.0",
-    "unzip-response": "^1.0.2",
+    "unzip-response": "^3.0.0",
     "url-parse-lax": "^1.0.0",
     "unpipe": "^1.0.0",
     "url-regex": "^3.2.0",
