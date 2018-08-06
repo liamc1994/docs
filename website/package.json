@@ -309,7 +309,7 @@
     "inherits": "^2.0.3",
     "interpret": "^1.1.0",
     "invariant": "^2.2.4",
-    "ip-regex": "^1.0.3",
+    "ip-regex": "^3.0.0",
     "ipaddr.js": "^1.6.0",
     "is-absolute-url": "^2.1.0",
     "is-arrayish": "^0.3.1",
