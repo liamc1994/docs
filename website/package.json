@@ -472,7 +472,7 @@
     "postcss": "^7.0.2",
     "p-finally": "^1.0.0",
     "postcss-convert-values": "^4.0.0",
-    "postcss-discard-comments": "^2.0.4",
+    "postcss-discard-comments": "^4.0.0",
     "postcss-discard-duplicates": "^2.1.0",
     "postcss-discard-empty": "^2.1.0",
     "postcss-calc": "^5.3.1",
