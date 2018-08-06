@@ -120,7 +120,7 @@
     "bin-version": "^2.0.0",
     "bin-version-check": "^3.0.0",
     "body": "^5.1.0",
-    "braces": "^1.8.5",
+    "braces": "^2.3.2",
     "brace-expansion": "^1.1.11",
     "buffer-alloc-unsafe": "^0.1.1",
     "buffer-alloc": "^1.1.0",
