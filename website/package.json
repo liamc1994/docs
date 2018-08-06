@@ -289,7 +289,7 @@
     "has-flag": "^3.0.0",
     "has-ansi": "^2.0.0",
     "has-gulplog": "^0.1.0",
-    "home-or-tmp": "^2.0.0",
+    "home-or-tmp": "^3.0.0",
     "highlight.js": "^9.12.0",
     "hosted-git-info": "^2.6.0",
     "html-comment-regex": "^1.1.1",
