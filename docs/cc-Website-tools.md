@@ -13,4 +13,4 @@ The start page is meant for testing purposes only. We strongly advice against us
 
 ## The Centova Cast player widget doesn't work
 
-The player widget Centova Provides is very aoutdated and uses Flash. We strongly advice against using this one. This widget uses [Muses](http://muses.org), a free to use widget. The official [Muses](http://muses.org) does provide an HTML5 and up to date version to use instead.
+The player widget Centova Provides is very **outdated and uses Flash**. We strongly advice against using this one. This widget uses [Muses](http://muses.org), a free to use widget. The official [Muses](http://muses.org) does provide an HTML5 and up to date version to use instead.
