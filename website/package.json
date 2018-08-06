@@ -242,7 +242,7 @@
     "filename-regex": "^2.0.1",
     "figures": "^1.7.0",
     "filename-reserved-regex": "^1.0.0",
-    "feed": "^1.1.1",
+    "feed": "^2.0.1",
     "filenamify": "^1.2.1",
     "fill-range": "^2.2.4",
     "find-versions": "^2.0.0",
