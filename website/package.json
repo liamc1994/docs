@@ -349,7 +349,7 @@
     "is-utf8": "^0.2.1",
     "is-valid-glob": "^1.0.0",
     "isarray": "^0.0.1",
-    "is2": "^0.0.9",
+    "is2": "^2.0.1",
     "is-zip": "^1.0.0",
     "isomorphic-fetch": "^2.2.1",
     "isobject": "^3.0.1",
