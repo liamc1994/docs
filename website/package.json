@@ -629,7 +629,7 @@
     "unquote": "^1.1.1",
     "util-deprecate": "^1.0.2",
     "url-join": "^1.1.0",
-    "uuid": "^2.0.3",
+    "uuid": "^3.3.2",
     "vali-date": "^1.0.0",
     "util.promisify": "^1.0.0",
     "utils-merge": "^1.0.1",
