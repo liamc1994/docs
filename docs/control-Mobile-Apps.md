@@ -39,18 +39,11 @@ On 2016-03-24, Google suspended our account. We're working on recovering the acc
 
 If you already had an Android app but can't find it anymore, this is because Google has taken down all of our apps.
 
-In the meantime, we offer 2 options to get your app back in the Google Play Store.
+In the meantime, you must self-host your app (under your own Google Play Developer account). There is an option for this in Control where you can request and download your APK. See [Self-Host your Android apps](#self-host-your-android-apps) for more details.
 
-The first is the option to self-host your app (under your own Google Play Developer account). There is an option for this in Control where you can request and download your APK. See [Self-Host your Android apps](#self-host-your-android-apps) for more details.
+You have to go to the app request details page in [Control](https://control.shoutca.st), edit and save it so we can process your app request again. You'll be notified when your app is available for download.
 
-The second option is to get your app on our new Play Store account. Since Google limits new apps per day, this is ***much*** slower as there will be a waiting list. This will take as long as it needs to.
-
-Therefore, **we strongly recommend self-hosting your app**, as that is more flexible for you, you get access to statistics and your account is independent from all other apps.
-
-In both cases, you have to go to the app request details page in [Control](https://control.shoutca.st), edit and save it so we can process your app request again. You'll be notified when your app is resubmitted or when it is available for download.
-
-> **"title": "Submissions to the Play Store are currently suspended"**
-> Google has suspended two apps for an invalid reason again. As they have a three-strike policy, we're appealing to avoid having our account terminated again. Submission of Android apps to the Google Play Store is suspended until Google resolves this.\n\nAndroid apps that are pending submission will stay on the \"Pending\" status for the moment.\nWe strongly suggest self-hosting the apps. These requests are the only ones that will get processed at this moment.,
+> **Submissions to the Play Store are currently suspended**
 
 
 ## Self-host your Android apps
