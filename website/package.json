@@ -462,7 +462,7 @@
     "path-parse": "^1.0.5",
     "path-to-regexp": "^0.1.7",
     "path-key": "^2.0.1",
-    "path-type": "^1.1.0",
+    "path-type": "^3.0.0",
     "pend": "^1.2.0",
     "performance-now": "^2.1.0",
     "pify": "^3.0.0",
