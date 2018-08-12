@@ -46,3 +46,7 @@ You can try to turn of replay gain. This is made to let all tracks be at the sam
 
 This means you have enabled "Song title codes" in the Centova Cast settings.
 ![song title code setting](https://images.shoutca.st/Screenshot%20from%202018-07-23%2009-25-43.png)
+
+## Is there AAC+ support?
+AAC+ is just a brand name of HE-AAC (High-Efficiency Advanced Audio Coding). While it may not be visible in the non-advanced settings it is the default when you select AAC in Centova Cast's AutoDJ. You can confirm this by opening the advanced settings page.
+![Centova Cast advanced settings](https://images.shoutca.st/Screenshot%20from%202018-08-12%2010-43-19.png)
