@@ -2,7 +2,7 @@
 title: "Payments"
 
 ---
-We accept all major credit and debit cards such as Visa, MasterCard, Maestro, Discover, etc. We also accept PayPal, Bitcoin,  instant bank transfers via Sofort or Direct Debit via GoCardless. 
+We accept all major credit and debit cards such as Visa, MasterCard, Maestro, Discover, etc. We also accept PayPal, Bitcoin or Direct Debit via GoCardless. 
 
 ## What currencies can I pay in?
 
