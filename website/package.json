@@ -556,7 +556,7 @@
     "setprototypeof": "^1.1.0",
     "shebang-command": "^1.2.0",
     "shebang-regex": "^1.0.0",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.2",
     "signal-exit": "^3.0.2",
     "slash": "^2.0.0",
     "simple-swizzle": "^0.2.2",
