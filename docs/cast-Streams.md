@@ -11,7 +11,10 @@ A bitrate is the how many bits are used per second to encode the song. The lower
 A higher bitrate gives better quality on the cost of bandwidth being used. The industry standard is 128kbps as it is the best compromise of bandwidth and quality.
 
 ## HTTP Live Streaming
-HLS (HTTP Live Streaming) is a new [standard](https://tools.ietf.org/html/draft-pantos-http-live-streaming-18) for live streams over the internet. It was designed by [Apple](https://developer.apple.com/streaming/) but got widely adopted for live and on demand video streaming. But the standard also got support for MP3 and AAC streams. HLS will soon be available in Cast by default but is currently [under development](https://github.com/innovate-technologies/Cast/issues/92).
+HLS (HTTP Live Streaming) is a new [standard](https://tools.ietf.org/html/draft-pantos-http-live-streaming-18) for live streams over the internet. It was designed by [Apple](https://developer.apple.com/streaming/) but got widely adopted for live and on demand video streaming. But the standard also got support for MP3 and AAC streams. HLS is now availale as beta in Cast.
+
+## MPEG DASH
+DASH (Dynamic Adaptive Streaming over HTTP) looks a lot like DASH but has been made a standard (ISO/IEC 23009-1) by the MPEG workgroup. It also is available in Cast as a beta feature.
 
 ## Hide listener count
 This has been an often heard request for our SHOUTcast and Icecast service. We've integrated this in Cast by a simple button. This option will hide the listener count to the public pages. All compatible APIs (like the SHOUTcast one) without the need to provide the API key will provide the value 0. This is also the value reported to the directories as faking a high listener count can get your station banned from these.
