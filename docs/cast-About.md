@@ -13,3 +13,6 @@ Cast is licensed under AGPLv3. To keep it simple, you can modify it if you relea
 
 ## Where can I find more about the Cast project?
 You can read more about Cast in its [documentation](https://cast.readme.io/docs). We thank Readme.io for sponsoring Cast!
+
+## How to spell Cast?
+Cast is spelled `Cast`. The first letter is uppercase the other ones lowercase. Cast comes from uni*cast* or broad*cast*. Cast is not an abbreviation, so spelling it all caps is not appropriate.
