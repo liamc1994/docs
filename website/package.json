@@ -186,7 +186,7 @@
     "dashdash": "^1.14.1",
     "decompress-tar": "^3.1.0",
     "decompress-tarbz2": "^4.1.1",
-    "decamelize": "^1.2.0",
+    "decamelize": "^2.0.0",
     "decompress-targz": "^4.1.1",
     "deep-is": "^0.1.2",
     "deep-extend": "^0.5.1",
