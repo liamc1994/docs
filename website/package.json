@@ -368,7 +368,7 @@
     "json-stringify-safe": "^5.0.1",
     "jsonfile": "^4.0.0",
     "kind-of": "^3.2.2",
-    "jsprim": "^1.4.1",
+    "jsprim": "^2.0.0",
     "jsonify": "^0.0.0",
     "lazystream": "^1.0.0",
     "lazy-cache": "^2.0.2",
