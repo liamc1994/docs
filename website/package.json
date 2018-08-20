@@ -392,7 +392,7 @@
     "lodash.isarray": "^3.0.4",
     "lodash.isequal": "^4.5.0",
     "lodash.memoize": "^4.1.2",
-    "lodash.template": "^3.6.2",
+    "lodash.template": "^4.4.0",
     "lodash.restparam": "^3.6.1",
     "lodash.templatesettings": "^3.1.1",
     "lodash.uniq": "^4.5.0",
