@@ -226,7 +226,7 @@
     "exec-buffer": "^3.2.0",
     "expand-brackets": "^0.1.5",
     "expand-range": "^1.8.2",
-    "execa": "^0.7.0",
+    "execa": "^0.10.0",
     "extend": "^3.0.1",
     "extend-shallow": "^3.0.2",
     "extglob": "^0.3.2",
