@@ -257,7 +257,7 @@
     "forwarded": "^0.1.2",
     "fs-constants": "^1.0.0",
     "fresh": "^0.5.2",
-    "fs-extra": "^5.0.0",
+    "fs-extra": "^7.0.0",
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
     "flatten": "^1.0.2",
