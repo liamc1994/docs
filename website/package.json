@@ -592,7 +592,7 @@
     "supports-color": "^5.4.0",
     "tar-stream": "^1.6.1",
     "sum-up": "^1.0.3",
-    "tcp-port-used": "^0.1.2",
+    "tcp-port-used": "^1.0.0",
     "through2": "^2.0.3",
     "svgo": "^1.0.5",
     "through2-filter": "^2.0.0",
