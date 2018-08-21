@@ -491,7 +491,7 @@
     "postcss-ordered-values": "^2.2.3",
     "postcss-reduce-idents": "^2.4.0",
     "postcss-reduce-initial": "^1.0.1",
-    "postcss-reduce-transforms": "^1.0.4",
+    "postcss-reduce-transforms": "^4.0.0",
     "postcss-svgo": "^2.1.6",
     "postcss-selector-parser": "^4.0.0",
     "postcss-value-parser": "^3.3.0",
