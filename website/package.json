@@ -588,7 +588,7 @@
     "strip-color": "^0.1.0",
     "strip-outer": "^1.0.1",
     "strip-eof": "^1.0.0",
-    "strip-indent": "^1.0.1",
+    "strip-indent": "^2.0.0",
     "supports-color": "^5.4.0",
     "tar-stream": "^1.6.1",
     "sum-up": "^1.0.3",
