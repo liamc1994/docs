@@ -496,7 +496,7 @@
     "postcss-selector-parser": "^4.0.0",
     "postcss-value-parser": "^3.3.0",
     "postcss-unique-selectors": "^2.0.2",
-    "postcss-zindex": "^2.2.0",
+    "postcss-zindex": "^4.0.0",
     "prepend-http": "^1.0.4",
     "preserve": "^0.2.0",
     "private": "^0.1.8",
