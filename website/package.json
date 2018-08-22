@@ -271,7 +271,7 @@
     "glob-parent": "^3.1.0",
     "glob-stream": "^5.3.5",
     "globals": "^9.18.0",
-    "globby": "^6.1.0",
+    "globby": "^8.0.1",
     "glogg": "^1.0.1",
     "globule": "^1.2.0",
     "got": "^9.0.0",
