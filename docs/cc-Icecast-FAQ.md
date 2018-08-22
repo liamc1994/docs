@@ -39,3 +39,8 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
 5) Make sure you relay metadata to show song info in your stream.
 6) Leave the rest blank and save your settings
 ![](https://images.shoutca.st/nsH19STmTbevwUi63EmA_Schermafbeelding%202015-11-25%20om%2011.06.06.png)
+
+## Icecast Server Administration Login
+
+To login to the admin part of Icecast you need to use the username `admin` toghether with the password of your Centova Cast account.
+
