@@ -401,7 +401,7 @@
     "logalot": "^2.1.0",
     "lowercase-keys": "^1.0.1",
     "loud-rejection": "^1.6.0",
-    "lpad-align": "^1.1.2",
+    "lpad-align": "^2.0.0",
     "lru-cache": "^4.1.3",
     "make-dir": "^1.3.0",
     "map-obj": "^1.0.1",
