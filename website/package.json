@@ -194,7 +194,7 @@
     "define-properties": "^1.1.2",
     "defined": "^1.0.0",
     "delayed-stream": "^1.0.0",
-    "detect-indent": "^4.0.0",
+    "detect-indent": "^5.0.0",
     "destroy": "^1.0.4",
     "depd": "^1.1.2",
     "dom-serializer": "^0.1.0",
