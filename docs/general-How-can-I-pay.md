@@ -2,13 +2,13 @@
 title: "Payments"
 
 ---
-We accept all major credit and debit cards such as Visa, MasterCard, Maestro, Discover, etc. We also accept PayPal, Bitcoin or Direct Debit via GoCardless. 
+We accept all major credit and debit cards such as Visa, MasterCard, Maestro, Discover, etc. We also accept PayPal, Bitcoin (via BitPay) or Direct Debit (via GoCardless). 
 
 ## What currencies can I pay in?
 
 You can pay in British Pounds (GBP), US Dollars (USD) and Euros (EUR). We will update the price once a month to reflect the current exchange rate. We do not charge any fees on these unlike most banks do. 
 
-### Can i change my currency
+### Can I change my currency
 
 No. Our billing system doesn't allow this. If you do want to change this we advice to create a new account with the correct currency and ask our support to move your services to the new account. 
 
