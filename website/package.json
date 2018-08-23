@@ -602,7 +602,7 @@
     "to-absolute-glob": "^0.1.1",
     "time-stamp": "^2.0.1",
     "to-buffer": "^1.1.1",
-    "to-fast-properties": "^1.0.3",
+    "to-fast-properties": "^2.0.0",
     "tiny-lr": "^1.1.1",
     "tree-node-cli": "^1.2.1",
     "to-object-path": "^0.3.0",
