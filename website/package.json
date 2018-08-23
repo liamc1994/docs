@@ -170,7 +170,7 @@
     "create-error-class": "^3.0.2",
     "core-js": "^2.5.7",
     "crowdin-cli": "^0.3.0",
-    "cross-spawn": "^5.1.0",
+    "cross-spawn": "^6.0.5",
     "css-color-names": "^0.0.4",
     "css-select-base-adapter": "^0.1.0",
     "css-tree": "^1.0.0-alpha25",
