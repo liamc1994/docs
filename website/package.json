@@ -138,7 +138,7 @@
     "capture-stack-trace": "^1.0.0",
     "caniuse-api": "^1.6.1",
     "caniuse-db": "^1.0.30000846",
-    "caw": "^1.2.0",
+    "caw": "^2.0.1",
     "chalk": "^2.4.1",
     "caniuse-lite": "^1.0.30000846",
     "caseless": "^0.12.0",
