@@ -465,7 +465,7 @@
     "path-type": "^3.0.0",
     "pend": "^1.2.0",
     "performance-now": "^2.1.0",
-    "pify": "^3.0.0",
+    "pify": "^4.0.0",
     "pinkie": "^2.0.4",
     "pinkie-promise": "^2.0.1",
     "postcss-colormin": "^2.2.2",
