@@ -25,7 +25,7 @@
     "archive-type": "^4.0.0",
     "ansi-wrap": "^0.1.0",
     "argparse": "^1.0.10",
-    "arr-diff": "^2.0.0",
+    "arr-diff": "^4.0.0",
     "arr-flatten": "^1.1.0",
     "array-differ": "^1.0.0",
     "array-find-index": "^1.0.2",
