@@ -356,7 +356,7 @@
     "isexe": "^2.0.0",
     "jpegtran-bin": "^3.2.0",
     "isstream": "^0.1.2",
-    "js-tokens": "^3.0.2",
+    "js-tokens": "^4.0.0",
     "js-base64": "^2.4.5",
     "jsbn": "^0.1.1",
     "js-yaml": "^3.11.0",
