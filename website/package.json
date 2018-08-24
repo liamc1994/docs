@@ -281,7 +281,7 @@
     "gray-matter": "^4.0.1",
     "gulp-rename": "^1.2.3",
     "gulplog": "^1.0.0",
-    "gulp-sourcemaps": "^1.6.0",
+    "gulp-sourcemaps": "^2.6.4",
     "gulp-util": "^3.0.8",
     "har-schema": "^2.0.0",
     "gifsicle": "^3.0.4",
