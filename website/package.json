@@ -238,7 +238,7 @@
     "fd-slicer": "^1.0.1",
     "faye-websocket": "^0.10.0",
     "fbjs": "^0.8.16",
-    "file-type": "^3.9.0",
+    "file-type": "^9.0.0",
     "filename-regex": "^2.0.1",
     "figures": "^2.0.0",
     "filename-reserved-regex": "^2.0.0",
