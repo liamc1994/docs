@@ -325,7 +325,7 @@
     "is-finite": "^1.0.2",
     "is-extglob": "^1.0.0",
     "is-gif": "^1.0.0",
-    "is-glob": "^2.0.1",
+    "is-glob": "^4.0.0",
     "is-gzip": "^1.0.0",
     "is-jpg": "^2.0.0",
     "is-natural-number": "^4.0.1",
