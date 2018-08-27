@@ -301,7 +301,7 @@
     "http-signature": "^1.2.0",
     "imagemin-jpegtran": "^5.0.2",
     "imagemin-svgo": "^7.0.0",
-    "indent-string": "^2.1.0",
+    "indent-string": "^3.2.0",
     "imagemin-optipng": "^5.2.1",
     "indexes-of": "^1.0.1",
     "inflight": "^1.0.6",
