@@ -111,7 +111,7 @@
     "babel-runtime": "^6.26.0",
     "babylon": "^6.18.0",
     "beeper": "^1.1.1",
-    "bin-check": "^2.0.0",
+    "bin-check": "^4.1.0",
     "bin-build": "^3.0.0",
     "bcrypt-pbkdf": "^1.0.1",
     "balanced-match": "^0.4.2",
