@@ -29,20 +29,29 @@ The stream title not changing is a common heard issue. This is because SHOUTcast
 
 First of all we need to go to the admin interface of SHOUTcast itself. To do this go to Centova Cast and in the side bar you can find "Admin". 
 ![](https://images.shoutca.st/fef0d8e-Schermafbeelding_2016-07-27_om_12.03.24.png)
-Now we're at the SHOUTcast DNAS status page. Up in the menu you can find "Server Login", make sure not to go to "Stream Login".
+Now we're at the SHOUTcast DNAS status page. Up in the menu you can find "Stream Login".
+
+
 ![](https://images.shoutca.st/aa5f15b-Schermafbeelding_2016-07-27_om_12.04.34.png)
-You'll be prompted for the username and password. The username is "admin" and the password is the account of your Centova Cast account.
+You'll be prompted for the username and password. The username is `admin` and the password is the account of your Centova Cast account.
 
-![](https://images.shoutca.st/b1d7e79-Schermafbeelding_2016-07-27_om_12.05.48.png)
-Now you get an overview of your streams. With each one there is an option to create an Authhash. This is what you need.
+You might see a notice that you need to register your station, if not you can click "Authhash" in the top bar.
+![register authhash noification](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-30-06.png)
 
-![](https://images.shoutca.st/6d9db96-Schermafbeelding_2016-07-27_om_12.09.41.png)
+On this screen press the "Create authhash" button. This will send you over to SHOUTcast.com
+![create authhash button](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-30-31.png)
 
-> At time of writing this screenshot has been outdated, this has changed in SHOUTcast 2.5. But it currently is not deployed on the SHOUTca.st network due many known issues.
-Create the Authhash and we're set!
+Here you need to login with your SHOUTcast.com account, or create one if you don't have one.
+![SHOUTcast RMO login](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-30-50.png)
+
+After you have logged in you need to create a new radio station there. In the options for which type you need to select the "DNAS" option.
+![DNAS option](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-31-32.png)
+
+When you filled in all required details and saved the station you will get a screen with your Authhash. Copy this hash and go back to the DNAS admin and enter this code.
+![Authhash text](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-34-39.png)
+![Authhash field](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-48-48.png)
 
 Keep in mind, the AutoDJ or a live DJ can still tell the server not to be listed. This can be overwritten in the settings.
-
 
 ![](https://images.shoutca.st/7ec2315-Schermafbeelding_2016-07-27_om_12.11.33.png)
 
