@@ -625,7 +625,7 @@
     "unzip-response": "^3.0.0",
     "url-parse-lax": "^1.0.0",
     "unpipe": "^1.0.0",
-    "url-regex": "^3.2.0",
+    "url-regex": "^4.1.1",
     "unquote": "^1.1.1",
     "util-deprecate": "^1.0.2",
     "url-join": "^1.1.0",
