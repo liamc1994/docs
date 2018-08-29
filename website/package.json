@@ -33,7 +33,7 @@
     "array-uniq": "^2.0.0",
     "array-union": "^1.0.2",
     "asap": "^2.0.6",
-    "array-unique": "^0.2.1",
+    "array-unique": "^0.3.2",
     "asn1": "^0.2.3",
     "async-each-series": "^1.1.0",
     "autolinker": "^1.7.0",
