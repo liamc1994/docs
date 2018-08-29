@@ -435,7 +435,7 @@
     "npm-run-path": "^2.0.2",
     "num2fraction": "^1.2.2",
     "nth-check": "^1.0.1",
-    "oauth-sign": "^0.8.2",
+    "oauth-sign": "^0.9.0",
     "number-is-nan": "^1.0.1",
     "object-assign": "^4.1.1",
     "object-keys": "^1.0.11",
