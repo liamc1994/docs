@@ -22,7 +22,18 @@ There are multiple FTP client solutions that can be used, but we recommend [File
 5. Head back to FileZilla and enter the details into the software
 ![Connected.png](https://i.imgur.com/tz2Dty6.png)
 > **Please note**
-> Remember to enter the port number as 21, a lot of people try to enter their Centova Cast streaming port and it does not work.
+> remember to enter the port number as 21, a lot of people try to enter their Centova Cast streaming port and it does not work.
 6. Click 'Quickconnect' and you will be connected to your server.
 7. Once connected, on the left hand side you will see your local PC document tree, and on the right hand side the servers. Double click on the 'Media' folder on the right and drag files from your PC (the left) into the right hand panel to upload them.
 ![Media.png](https://i.imgur.com/fSkh31J.png)
+
+**Job done!** You've now uploaded your media to your Centova Cast service and you can begin to start putting your music files into playlists. 
+
+## Adding newly uploaded media to playlists
+
+1. Log into Centova Cast and click the 'Media' tab in the left hand side.
+![Mediatab.png](https://i.imgur.com/DmfboLu.png)
+2. Update your media library to pull through your new tracks by clicking 'Options' then 'Manual Library Update'
+![libupdate.png](https://i.imgur.com/rRHuS76.png)
+3. Drag files into which ever playlist you wish.
+![playlistupload.png](https://i.imgur.com/BbPcGRe.png)
