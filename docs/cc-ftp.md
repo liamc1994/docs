@@ -34,9 +34,11 @@ There are multiple FTP client solutions that can be used, but we recommend [File
 1. Log into Centova Cast and click the 'Media' tab in the left hand side.
 
 ![Mediatab.png](https://i.imgur.com/DmfboLu.png)
+
 2. Update your media library to pull through your new tracks by clicking 'Options' then 'Manual Library Update'
 
 ![libupdate.png](https://i.imgur.com/rRHuS76.png)
+
 3. Drag files into which ever playlist you wish.
 
 ![playlistupload.png](https://i.imgur.com/BbPcGRe.png)
