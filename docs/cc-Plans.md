@@ -26,4 +26,4 @@ After paying your invoice (if needed) your service will be changed in a few seco
 
 The Pro+ plan is a plan that extends the Pro plan's disk space and replaced the old Pro plans with extra disk space with a more flexible solution.
 
-The Pro+ plan is simple and flexible. You pay £5, the same as Pro, and it includes everything the Pro plan has. The difference is simple: once you go over 20GB disk space, you can keep uploading files as much as you like. At the end of the billing period, you will be charged an extra on your invoice that bills you for the extra disk space you have used, at a rate of £0.15/GB.
+The Pro+ plan is simple and flexible. You pay £5, the same as Pro, and it includes everything the Pro plan has. The difference is simple: once you go over 20GB disk space, you can keep uploading files as much as you like. At the end of the billing period, you will be charged an extra on your invoice that bills you for the extra disk space you have used, at a rate of £0.15/GB. Let's say you used 30 GB. That is the 20GB included in the £5, and 10 GB at £0.15/GB that makes your total bill of £6.50.
