@@ -505,7 +505,7 @@
     "promise": "^7.3.1",
     "prop-types": "^15.6.1",
     "pseudomap": "^1.0.2",
-    "punycode": "^1.4.1",
+    "punycode": "^2.1.1",
     "randomatic": "^3.0.0",
     "qs": "^6.5.1",
     "query-string": "^4.3.4",
