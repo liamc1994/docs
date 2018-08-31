@@ -27,7 +27,7 @@
     "argparse": "^1.0.10",
     "arr-diff": "^4.0.0",
     "arr-flatten": "^1.1.0",
-    "array-differ": "^1.0.0",
+    "array-differ": "^2.0.3",
     "array-find-index": "^1.0.2",
     "array-flatten": "^1.1.1",
     "array-uniq": "^2.0.0",
