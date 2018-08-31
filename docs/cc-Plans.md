@@ -10,7 +10,7 @@ First of all you need to log in to the client area. There go to Services -> My S
 There look for the service you want to upgrade and press view details for that product.
 ![product details](https://images.shoutca.st/Screenshot from 2018-08-31 15-28-27.png)
 Under Actions select "Upgrade/Downgrade"
-![](https://images.shoutca.st/Screenshot from 2018-08-31 15-28-27.png)
+![](https://images.shoutca.st/Screenshot%20from%202018-08-31%2015-28-27.png)
 Then you can select the new product you want to use, you can also change the billing period you want to use at the same time.
 ![select product](https://images.shoutca.st/Screenshot%20from%202018-08-31%2015-28-42.png)
 After picking it you'll get an overview of the money you'll get back or have to pay. 
