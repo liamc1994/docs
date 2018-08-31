@@ -468,7 +468,7 @@
     "pify": "^4.0.0",
     "pinkie": "^2.0.4",
     "pinkie-promise": "^2.0.1",
-    "postcss-colormin": "^2.2.2",
+    "postcss-colormin": "^4.0.1",
     "postcss": "^7.0.2",
     "p-finally": "^1.0.0",
     "postcss-convert-values": "^4.0.0",
