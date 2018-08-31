@@ -13,6 +13,8 @@ In the past we made an Icecast fork with special improvements for our services a
 
 ## How to get listed on SHOUTcast.com
 
+> SHOUTcast.com seems to hide certain Icecast listings from their main site to promote their own software, while they are listed in their API.
+
 Of course SHOUTcast.com does not only support SHOUTcast servers but also Icecast servers so also Cast 0.x. But you'll have to make sure a few settings are correct.
 
 If you use the AutoDJ make sure it is set to public, you can find this under "Mount Points" in the settings. Also make sure the Overrides has "Advertise in directory" set to "Always" or "Determinated by source".![Schermafbeelding 2015-05-15 om 17.03.59.png](https://i.imgur.com/YkffmFY.png)  ![Schermafbeelding 2015-05-15 om 17.04.07.png](https://i.imgur.com/q2kdQiG.png) 
