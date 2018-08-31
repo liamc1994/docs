@@ -581,7 +581,7 @@
     "strict-uri-encode": "^2.0.0",
     "strip-bom": "^3.0.0",
     "string-template": "^1.0.0",
-    "strip-bom-stream": "^1.0.0",
+    "strip-bom-stream": "^3.0.0",
     "string_decoder": "^1.1.1",
     "strip-dirs": "^2.1.0",
     "strip-json-comments": "^2.0.1",
