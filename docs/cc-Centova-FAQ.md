@@ -32,4 +32,4 @@ Take a look at the other FAQs listed here or the [official Centova Cast document
 The first advice is to check your email. This usually happens when you broadcast in a higher bitrate than allowed by your plan. Centova Cast checks this every few minutes.
 
 ## Bandwidth limit
-Centova Cast is not aware when you pay your server. Any monthly limits (eg. bandwidth) are therefro counted from the first to the last calendar day of every month. If you go over this limit Centova Cast will suspend your account which will be unsuspended on upgrade or the first day of the next calendar month (1st of the month)
+Centova Cast is not aware when you pay your server. Any monthly limits (eg. bandwidth) are therefor counted from the first to the last calendar day of every month. If you go over this limit Centova Cast will suspend your account which will be unsuspended on upgrade or the first day of the next calendar month (1st of the month)
