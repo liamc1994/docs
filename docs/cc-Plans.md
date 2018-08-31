@@ -7,17 +7,15 @@ Centova Cast comes in 4 flavours to fit every need. You can change plans all the
 ## How to upgrade?
 
 First of all you need to log in to the client area. There go to Services -> My Services.
-![](https://images.shoutca.st/2E9EGbTGT9WK2B1UBX7U_Schermafbeelding%202015-10-21%20om%2011.03.40.png)
 There look for the service you want to upgrade and press view details for that product.
-![](https://images.shoutca.st/3jqFSFRUSwiAtzHW6XGQ_Schermafbeelding%202015-10-21%20om%2011.03.50.png)
-Under management select "Upgrade/Downgrade"
-![](https://images.shoutca.st/0pKREmnNQfWeUyD8Z1sg_Schermafbeelding%202015-10-21%20om%2011.04.03.png)
+![product details](https://images.shoutca.st/Screenshot from 2018-08-31 15-28-27.png)
+Under Actions select "Upgrade/Downgrade"
+![](https://images.shoutca.st/Screenshot from 2018-08-31 15-28-27.png)
 Then you can select the new product you want to use, you can also change the billing period you want to use at the same time.
-![](https://images.shoutca.st/y3Ckm6h9TMuBlTYtbVuz_Schermafbeelding%202015-10-21%20om%2011.06.00.png)
+![select product](https://images.shoutca.st/Screenshot%20from%202018-08-31%2015-28-42.png)
 After picking it you'll get an overview of the money you'll get back or have to pay. 
-![](https://images.shoutca.st/QlasqiDER8CPuRqk0Nl3_Schermafbeelding%202015-10-21%20om%2011.06.08.png)
+![upgrade summary](https://images.shoutca.st/Screenshot%20from%202018-08-31%2015-28-54.png)
 
-![](https://images.shoutca.st/nGf4sdP8Qt2amXzWaNRv_Schermafbeelding%202015-10-21%20om%2011.06.20.png)
 After paying your invoice (if needed) your service will be changed in a few seconds. If you're logged in in Centova Cast don't forget to log out and in again to see the new limits. 
 > You can't downgrade back from a paid plan to a free plan. This was possible in the past but got disabled because of abuse.
 
