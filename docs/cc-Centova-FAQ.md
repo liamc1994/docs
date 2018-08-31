@@ -19,6 +19,7 @@ The start page is meant for testing purposes only. We strongly advice against us
 
 You can find your FTP details on the Quick Links in Centova Cast.
 ![](https://images.shoutca.st/cZKjmhJuRpGhaelxZFsF_Schermafbeelding%202015-11-09%20om%2011.48.10.png)
+More info on how to use FTP can be found in our [FTP docs](https://docs.shoutca.st/docs/cc-ftp.html)
 
 > Make sure you leave the port field empty or use port 21. Using the port of your server will result in an error;
 
