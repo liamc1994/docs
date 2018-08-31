@@ -54,9 +54,13 @@ We already offer a lot of different payment methods which are accessible to most
 
 In most cases, if you cannot pay via PayPal, you still have the option of using your credit/debit card. If that isn't possible either, there are still bank transfers and Bitcoins.
 
-## Can I pay with Western Union?
+### Can I pay with Western Union?
 
 **No.** We will never support Western Union because of the high risk for fraud and the impossibility to integrate it with our systems.
+
+### Can I pay by bank transfer?
+
+Due to the automated nature of our billing system we can not do this. Our bank does not offer us the ability to automate this process. We strongly reccomend to use Direct Debit in this case.
 
 ## What are funds/credit
 
