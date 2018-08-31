@@ -373,7 +373,7 @@
     "lazystream": "^1.0.0",
     "lazy-cache": "^2.0.2",
     "har-validator": "^5.0.3",
-    "list-item": "^1.1.1",
+    "list-item": "^2.0.0",
     "livereload-js": "^2.3.0",
     "load-json-file": "^5.0.0",
     "lodash._basecopy": "^3.0.1",
