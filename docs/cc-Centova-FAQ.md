@@ -27,3 +27,6 @@ More info on how to use FTP can be found in our [FTP docs](https://docs.shoutca.
 ## I did not find what I need
 
 Take a look at the other FAQs listed here or the [official Centova Cast documentation](http://www.centova.com/doc/cast/user_manual/usage_guide)
+
+## My server stops after a few minutes
+The first advice is to check your email. This usually happens when you broadcast in a higher bitrate than allowed by your plan. Centova Cast checks this every few minutes.
