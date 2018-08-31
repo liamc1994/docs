@@ -3,12 +3,13 @@ title: "Streams"
 
 ---
 
-> This page is a work in progress.
-
 ## What is a bit rate?
 
 A bitrate is the how many bits are used per second to encode the song. The lower this is the lower the quality of the song. In MP3 the most used quality is 128kbps. MP3 can go up to 320kbps but this is not suggested. The best trained ears can't hear the difference between 256kbps and 320kbps. Most ears don't hear any difference starting at 196kbps. 
 A higher bitrate gives better quality on the cost of bandwidth being used. The industry standard is 128kbps as it is the best compromise of bandwidth and quality.
+
+## Which formats do you support?
+Cast supports MP3 and AAC streams as well as OGG (Opus and Vorbis) encapsulated streams.
 
 ## HTTP Live Streaming
 HLS (HTTP Live Streaming) is a new [standard](https://tools.ietf.org/html/draft-pantos-http-live-streaming-18) for live streams over the internet. It was designed by [Apple](https://developer.apple.com/streaming/) but got widely adopted for live and on demand video streaming. But the standard also got support for MP3 and AAC streams. HLS is now availale as beta in Cast.
