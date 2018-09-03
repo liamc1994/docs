@@ -628,7 +628,7 @@
     "url-regex": "^4.1.1",
     "unquote": "^1.1.1",
     "util-deprecate": "^1.0.2",
-    "url-join": "^1.1.0",
+    "url-join": "^4.0.0",
     "uuid": "^3.3.2",
     "vali-date": "^1.0.0",
     "util.promisify": "^1.0.0",
