@@ -277,7 +277,7 @@
     "got": "^9.0.0",
     "graceful-fs": "^4.1.11",
     "graceful-readlink": "^1.0.1",
-    "gulp-decompress": "^1.2.0",
+    "gulp-decompress": "^2.0.2",
     "gray-matter": "^4.0.1",
     "gulp-rename": "^1.2.3",
     "gulplog": "^1.0.0",
