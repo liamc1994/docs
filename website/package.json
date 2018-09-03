@@ -145,7 +145,7 @@
     "clone": "^1.0.4",
     "clap": "^1.2.3",
     "classnames": "^2.2.5",
-    "clone-stats": "^0.0.1",
+    "clone-stats": "^1.0.0",
     "color-convert": "^1.9.1",
     "coa": "^2.0.1",
     "co": "^4.6.0",
