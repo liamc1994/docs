@@ -508,7 +508,7 @@
     "punycode": "^2.1.1",
     "randomatic": "^3.0.0",
     "qs": "^6.5.1",
-    "query-string": "^4.3.4",
+    "query-string": "^6.1.0",
     "proxy-addr": "^2.0.3",
     "rc": "^1.2.7",
     "q": "^1.5.1",
