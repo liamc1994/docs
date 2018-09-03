@@ -348,7 +348,7 @@
     "is-url": "^1.2.4",
     "is-utf8": "^0.2.1",
     "is-valid-glob": "^1.0.0",
-    "isarray": "^0.0.1",
+    "isarray": "^2.0.4",
     "is2": "^2.0.1",
     "is-zip": "^1.0.0",
     "isomorphic-fetch": "^2.2.1",
