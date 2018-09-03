@@ -518,7 +518,7 @@
     "react-dom": "^16.4.0",
     "react": "^16.4.0",
     "read-pkg": "^1.1.0",
-    "readable-stream": "^2.3.6",
+    "readable-stream": "^3.0.2",
     "read-pkg-up": "^4.0.0",
     "rechoir": "^0.6.2",
     "redent": "^1.0.0",
