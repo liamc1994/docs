@@ -3,6 +3,9 @@ title: "Mobile Apps"
 
 ---
 
+## Android app target API
+Google changed the target API requirement for Android apps. This new target API requires a lot of code changes in how our app currently handles permissions and background tasks which are very important to the working of the application. Our team is working on an updated app which addresses these issues.
+
 ## Requesting your apps
 
 In Control, click on *Manage* in the navigation bar.
