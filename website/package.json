@@ -526,7 +526,7 @@
     "reduce-function-call": "^1.0.2",
     "regenerate": "^1.4.0",
     "regex-cache": "^0.4.4",
-    "regenerator-runtime": "^0.10.5",
+    "regenerator-runtime": "^0.12.1",
     "regenerator-transform": "^0.10.1",
     "regexpu-core": "^2.0.0",
     "regjsgen": "^0.2.0",
