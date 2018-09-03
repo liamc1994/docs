@@ -446,7 +446,7 @@
     "on-finished": "^2.3.0",
     "onetime": "^1.1.0",
     "once": "^1.4.0",
-    "ordered-read-streams": "^0.3.0",
+    "ordered-read-streams": "^1.0.1",
     "os-filter-obj": "^2.0.0",
     "optipng-bin": "^3.1.4",
     "ms": "^2.0.0",
