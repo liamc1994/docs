@@ -12,7 +12,7 @@ Yes you can, but not in Centova Cast itself. There are some software suites avai
 
 ## Can I use extra services?
 
-Resellers are meant to be while-label. That means your services won't have our name on it. That is why the extra services like Player,Twitter and TuneIn are not available to resellers.
+Resellers are meant to be while-label. That means your services won't have our name on it. That is why the extra services like Player, Twitter #nowplaying and TuneIn AIR are not available to resellers.
 
 ## Can I use a reseller for my own use?
 
