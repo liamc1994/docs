@@ -6,6 +6,9 @@ title: "Mobile Apps"
 ## Android app target API
 Google changed the target API requirement for Android apps. This new target API requires a lot of code changes in how our app currently handles permissions and background tasks which are very important to the working of the application. Our team is working on an updated app which addresses these issues.
 
+## AAC and Android
+Our Android apps use the phone's system audio codecs. Due to the AAC licensing model some phones do not support AAC while others do. We can not guarantee AAC will work on all phones. Some Android phones do also support AAC in MP4 containers which is currently not implemented in SHOUTcast or Icecast.
+
 ## Requesting your apps
 
 In Control, click on *Manage* in the navigation bar.
