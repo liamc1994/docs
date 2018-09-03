@@ -489,7 +489,7 @@
     "postcss-normalize-charset": "^4.0.0",
     "postcss-normalize-url": "^4.0.0",
     "postcss-ordered-values": "^4.0.0",
-    "postcss-reduce-idents": "^2.4.0",
+    "postcss-reduce-idents": "^4.0.0",
     "postcss-reduce-initial": "^1.0.1",
     "postcss-reduce-transforms": "^4.0.0",
     "postcss-svgo": "^2.1.6",
