@@ -623,7 +623,7 @@
     "universalify": "^0.1.1",
     "uniqs": "^2.0.0",
     "unzip-response": "^3.0.0",
-    "url-parse-lax": "^1.0.0",
+    "url-parse-lax": "^3.0.0",
     "unpipe": "^1.0.0",
     "url-regex": "^4.1.1",
     "unquote": "^1.1.1",
