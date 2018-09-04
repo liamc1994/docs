@@ -527,7 +527,7 @@
     "regenerate": "^1.4.0",
     "regex-cache": "^0.4.4",
     "regenerator-runtime": "^0.12.1",
-    "regenerator-transform": "^0.10.1",
+    "regenerator-transform": "^0.13.3",
     "regexpu-core": "^2.0.0",
     "regjsgen": "^0.2.0",
     "remove-trailing-separator": "^1.1.0",
