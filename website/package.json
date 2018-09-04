@@ -490,7 +490,7 @@
     "postcss-normalize-url": "^4.0.0",
     "postcss-ordered-values": "^4.0.0",
     "postcss-reduce-idents": "^4.0.0",
-    "postcss-reduce-initial": "^1.0.1",
+    "postcss-reduce-initial": "^4.0.1",
     "postcss-reduce-transforms": "^4.0.0",
     "postcss-svgo": "^2.1.6",
     "postcss-selector-parser": "^4.0.0",
