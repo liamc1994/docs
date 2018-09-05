@@ -531,7 +531,7 @@
     "regexpu-core": "^2.0.0",
     "regjsgen": "^0.2.0",
     "remove-trailing-separator": "^1.1.0",
-    "regjsparser": "^0.1.5",
+    "regjsparser": "^0.4.0",
     "repeat-element": "^1.1.2",
     "repeat-string": "^1.6.1",
     "remarkable": "^1.7.1",
