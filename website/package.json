@@ -21,7 +21,7 @@
     "ansi-gray": "^0.1.1",
     "ansi-red": "^0.1.1",
     "ansi-regex": "^3.0.0",
-    "ansi-styles": "^2.2.1",
+    "ansi-styles": "^3.2.1",
     "archive-type": "^4.0.0",
     "ansi-wrap": "^0.1.0",
     "argparse": "^1.0.10",
