@@ -474,7 +474,7 @@
     "postcss-convert-values": "^4.0.0",
     "postcss-discard-comments": "^4.0.0",
     "postcss-discard-duplicates": "^4.0.0",
-    "postcss-discard-empty": "^2.1.0",
+    "postcss-discard-empty": "^4.0.0",
     "postcss-calc": "^6.0.1",
     "postcss-discard-unused": "^4.0.0",
     "postcss-filter-plugins": "^3.0.1",
