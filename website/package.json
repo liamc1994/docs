@@ -560,7 +560,7 @@
     "signal-exit": "^3.0.2",
     "slash": "^2.0.0",
     "simple-swizzle": "^0.2.2",
-    "sitemap": "^1.13.0",
+    "sitemap": "^2.0.1",
     "source-map": "^0.7.3",
     "source-map-support": "^0.4.18",
     "sparkles": "^1.0.1",
