@@ -599,7 +599,7 @@
     "temp-dir": "^1.0.0",
     "timed-out": "^4.0.1",
     "tempfile": "^2.0.0",
-    "to-absolute-glob": "^0.1.1",
+    "to-absolute-glob": "^2.0.2",
     "time-stamp": "^2.0.1",
     "to-buffer": "^1.1.1",
     "to-fast-properties": "^2.0.0",
