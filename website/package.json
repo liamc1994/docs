@@ -562,7 +562,7 @@
     "simple-swizzle": "^0.2.2",
     "sitemap": "^2.0.1",
     "source-map": "^0.7.3",
-    "source-map-support": "^0.4.18",
+    "source-map-support": "^0.5.9",
     "sparkles": "^1.0.1",
     "sort-keys": "^2.0.0",
     "spdx-exceptions": "^2.1.0",
