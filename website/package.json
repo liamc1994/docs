@@ -545,7 +545,7 @@
     "safe-json-parse": "^1.0.1",
     "safer-buffer": "^2.1.2",
     "sax": "^1.2.4",
-    "semver-regex": "^1.0.0",
+    "semver-regex": "^2.0.0",
     "semver": "^5.5.0",
     "semver-truncate": "^1.1.2",
     "send": "^0.16.2",
