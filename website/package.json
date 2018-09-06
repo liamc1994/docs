@@ -595,7 +595,7 @@
     "tcp-port-used": "^1.0.0",
     "through2": "^2.0.3",
     "svgo": "^1.0.5",
-    "through2-filter": "^2.0.0",
+    "through2-filter": "^3.0.0",
     "temp-dir": "^1.0.0",
     "timed-out": "^4.0.1",
     "tempfile": "^2.0.0",
