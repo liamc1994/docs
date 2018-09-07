@@ -33,3 +33,7 @@ The first advice is to check your email. This usually happens when you broadcast
 
 ## Bandwidth limit
 Centova Cast is not aware when you pay your server. Any monthly limits (eg. bandwidth) are therefor counted from the first to the last calendar day of every month. If you go over this limit Centova Cast will suspend your account which will be unsuspended on upgrade or the first day of the next calendar month (1st of the month)
+
+## How to modify the default artwork
+When Centova Cast can't find the artwork for your music it will fall back to the default one. Centova Cast originally did not allow you to change this yourself. We developed an integration with [Player](https://docs.shoutca.st/docs/control-Player.html) which syncs these setttings with Centova Cast. 
+Should you want to change the default you have to configure Player in Control. Once this is configured with the artwork it will be synced to Centova Cast within a few hours.
