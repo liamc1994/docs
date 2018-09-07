@@ -542,7 +542,7 @@
     "request": "^2.87.0",
     "resolve": "^1.7.1",
     "seek-bzip": "^1.0.5",
-    "safe-json-parse": "^1.0.1",
+    "safe-json-parse": "^4.0.0",
     "safer-buffer": "^2.1.2",
     "sax": "^1.2.4",
     "semver-regex": "^2.0.0",
