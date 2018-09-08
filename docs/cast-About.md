@@ -6,6 +6,9 @@ Cast is an open source radio streaming server developed by SHOUTca.st. It is des
 
 Cast is open source meaning you can use it yourself for free, change it and contribute to the project. You can find Cast on [GitHub](https://github.com/Innovate-Technologies/Cast).
 
+## Is Cast in Beta?
+Not anymore. We now offer Cast in a stable version and beta version. Some features like HLS are currently only in the beta version which you can enable under "About".
+
 ## Can I modify Cast and use/sell it?
 >For legal matters, recommend that you consult a lawyer. *What follows is **not** legal advice.*
 
