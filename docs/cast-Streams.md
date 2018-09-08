@@ -11,6 +11,9 @@ A higher bitrate gives better quality on the cost of bandwidth being used. The i
 ## Which formats do you support?
 Cast supports MP3 and AAC streams as well as OGG (Opus and Vorbis) encapsulated streams.
 
+## Which protocols do you support?
+You can connect to Cast by using the SHOUTcast v1 or Icecast (v2) protocol.
+
 ## HTTP Live Streaming
 HLS (HTTP Live Streaming) is a new [standard](https://tools.ietf.org/html/draft-pantos-http-live-streaming-18) for live streams over the internet. It was designed by [Apple](https://developer.apple.com/streaming/) but got widely adopted for live and on demand video streaming. But the standard also got support for MP3 and AAC streams. HLS is now availale as beta in Cast.
 
