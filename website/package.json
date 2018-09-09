@@ -366,7 +366,7 @@
     "json-stable-stringify": "^1.0.1",
     "json5": "^2.0.0",
     "json-stringify-safe": "^5.0.1",
-    "jsonfile": "^4.0.0",
+    "jsonfile": "^5.0.0",
     "kind-of": "^6.0.2",
     "jsprim": "^2.0.0",
     "jsonify": "^0.0.0",
