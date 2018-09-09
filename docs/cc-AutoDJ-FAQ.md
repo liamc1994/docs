@@ -50,3 +50,10 @@ This means you have enabled "Song title codes" in the Centova Cast settings.
 ## Is there AAC+ support?
 AAC+ is just a brand name of HE-AAC (High-Efficiency Advanced Audio Coding). While it may not be visible in the non-advanced settings it is the default when you select AAC in Centova Cast's AutoDJ. You can confirm this by opening the advanced settings page.
 ![Centova Cast advanced settings](https://images.shoutca.st/Screenshot%20from%202018-08-12%2010-43-19.png)
+
+## liquidsoap exited immediately after startup
+Most of the times when you see this error this means there is something wrong with your AutoDJ settings. You can check then in the settings under "Mount Points" then "AutoDJ Settings".
+![example of too high sample rate](https://images.shoutca.st/Screenshot%20from%202018-09-09%2009-56-12.png)
+What we often see is the issue of a too high or too low sample rate being used. We advice not to go higher than 48000Hz. The usual is 44100Hz. Should you broadcast on low bitrates like 64kbps we advice to go a little bit lower.
+Should this still happen after these changes please contact our support.
+
