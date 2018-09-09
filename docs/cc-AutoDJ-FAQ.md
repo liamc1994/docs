@@ -26,6 +26,11 @@ Also make sure you have at least one rotation playlist active all day. Centova a
 A bitrate is the how many bits are used per second to encode the song. The lower this is the lower the quality of the song. In MP3 the most used quality is 128kbps. MP3 can go up to 320kbps but this is not suggested. The best trained ears can't hear the difference between 256kbps and 320kbps. Most ears don't hear any difference starting at 196kbps. 
 A higher bitrate gives better quality on the cost of bandwidth being used. The industry standard is 128kbps as it is the best compromise of bandwidth and quality.
 
+## What is a sample rate?
+
+A sample rate is technically the number of audio samples taking per second. This can be seen as the amount of data put in one second of an audio file. In relation to thhe bit rate this is the amount of data that has to be compressed into the the bit rate amount. Usually this is 44.1KHz or 441000Hz. Higher bitrates could benefit of using 48KHz. However should you want to put 48KHz into a lower bitrate like 64kbps this will result into bad sound as it tries to compress too much data into a smaller amount of data. That's why we suggest to pick a lower sample rate on a lower bitrate.
+While Centova Cast offers the ability to go as low as 8KHz or as high as 96KHz we strongly suggest not to do this as it might sound terrible or not even work at all. We suggest staying around the value of 44.1KHz.
+
 ## Where to set the Crossfade?
 
 You can set this under AutoDJ in settings. You will see 4 fields on this. The length is the total amount of seconds both songs are blended in each other. The fade in and fade out are the number of seconds the fading itself happens.
