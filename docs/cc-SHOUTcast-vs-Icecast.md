@@ -16,5 +16,5 @@ Furthermore MP3 keys are not being sold anymore, any company trying to sell them
 
 SHOUTcast v1 has not been updated for over 11 years and never will. Also there are many bugs and even serious security vulnerabilities know to be in there. Therefore we decided to not offer SHOUTcast v1 servers anymore.
 SHOUTcast.com also decided to stop supporting SHOUTcast v1 for their directory. Very soon these servers won't be listed anymore.
-> **Resellers**
-> Some resellers can still create SHOUTcast v1 servers, if you do you agree that we are not responsible for for any issues caused by this. SHOUTca.st won't help with any issues on SHOUTcast v1.
+On top of that the latest versions of Webkit (used in Chrome, Safari, Opera and many more) stopped to support SHOUTcast v1 servers which makes it unable to play SHOUTcast v1 stations in most modern browsers. For this reason SHOUTcast.com has decided to unlist all SHOUTcast v1 servers from their website rendering SHOUTcast v1 useless.
+
