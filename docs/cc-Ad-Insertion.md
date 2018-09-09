@@ -5,6 +5,8 @@ title: "Ad Insertion"
 
 > New signups for this have been delayed till we get earning reports for the current stations in this program from SHOUTcast.com. We've waiting for these for ~~months~~  years to pay out the current stations but did never get them from SHOUTcast.com.
 
+> UPDATE: you can apply or this at rmo.shouttcast.com for an agreement with SHOUTcast/Radionomy/Targetspot directly, while this works with SHOUTca.st we can not give any support or guarantees for it. We still don't have any updates on our old partnership nor any reports that this actually generated paid out revenue. 
+
 ~~SHOUTca.st is proud  to provide a way to monetize your stream in partnership with SHOUTcast. By triggering two minute ad breaks twice per hour your are able to earn money by serving your listeners ads targeted to their location and music taste. All you have to do is send the trigger from your automation, and our servers insert the audio commercials automatically! 
 Note: To apply for this your station must have reached at least have 500 TLH per day.~~
 
