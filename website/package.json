@@ -315,7 +315,7 @@
     "is-arrayish": "^0.3.1",
     "is-absolute": "^1.0.0",
     "is-buffer": "^2.0.3",
-    "is-builtin-module": "^2.0.0",
+    "is-builtin-module": "^3.0.0",
     "is-bzip2": "^1.0.0",
     "is-dotfile": "^2.0.0",
     "is-date-object": "^1.0.1",
