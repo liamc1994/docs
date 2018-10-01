@@ -2,10 +2,10 @@
 title: "SHOUTcast vs Icecast"
 
 ---
-Both SHOUTcast and Icecast are very similar software. At first sight you won't see a difference between the two. in detail there are a few differences.
-Icecast is open source (GPL) software while SHOUTcast is freeware made by Radionomy SA (before that AOL and Nullsoft). Both can be listed on SHOUTcast.com however.
-If you plan to have a big audience where you want to play ads to we can suggest SHOUTcast. ~~SHOUTca.st has a partnership with SHOUTcast.com that allows you to play targeted ads to your audience and earn money. You can learn more about that under "Ad Insertion".~~ (UPDATE: you can apply or this at rmo.shouttcast.com, while this works with SHOUTca.st we can not give any support or guarantees for it)
-On the other side Icecast is better tested against thousands of listeners.
+
+We strongly suggest using Icecast. SHOUTcast has stopped their offering of ther DNAS as free software and has released a paid version that will cost 9.90 USD (per station) for features already offered by Icecast and Centova Cast for free. The free version of SHOUTcast can only broadcast one 128kbps stream where before more and no bitrate limit was offered for free. Existing SHOUTcast clients will stay on the old free version with all features.
+
+SHOUTca.st suggests supporting free and open source sofrware by using Cast or Icecast.
 
 ## Do I need an MP3 key for SHOUTcast?
 
