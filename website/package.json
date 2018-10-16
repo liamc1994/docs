@@ -134,7 +134,7 @@
     "builtin-modules": "^3.0.0",
     "bytes": "^3.0.0",
     "camelcase": "^5.0.0",
-    "camelcase-keys": "^4.2.0",
+    "camelcase-keys": "^5.0.0",
     "capture-stack-trace": "^1.0.0",
     "caniuse-api": "^3.0.0",
     "caniuse-db": "^1.0.30000846",
