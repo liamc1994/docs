@@ -27,6 +27,8 @@ The stream title not changing is a common heard issue. This is because SHOUTcast
 
 ## How can I get listed on the SHOUTcast.com directory?
 
+> [IMPORTANT] SHOUTcast.com has stopped allowing new listings from older versions. Unfortunaly their latest version removes existing features and asks a monthly fee of 9 USD to add them back. We have decided to keep the older version since we do not want our clients to lose features they use and love.
+
 First of all we need to go to the admin interface of SHOUTcast itself. To do this go to Centova Cast and in the side bar you can find "Admin". 
 ![](https://images.shoutca.st/fef0d8e-Schermafbeelding_2016-07-27_om_12.03.24.png)
 Now we're at the SHOUTcast DNAS status page. Up in the menu you can find "Stream Login".
