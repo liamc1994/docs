@@ -284,7 +284,7 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-util": "^3.0.8",
     "har-schema": "^2.0.0",
-    "gifsicle": "^3.0.4",
+    "gifsicle": "^4.0.0",
     "has": "^1.0.1",
     "has-flag": "^3.0.0",
     "has-ansi": "^3.0.0",
