@@ -448,7 +448,7 @@
     "once": "^1.4.0",
     "ordered-read-streams": "^1.0.1",
     "os-filter-obj": "^2.0.0",
-    "optipng-bin": "^4.0.0",
+    "optipng-bin": "^5.0.0",
     "ms": "^2.0.0",
     "os-tmpdir": "^1.0.2",
     "p-pipe": "^1.2.0",
