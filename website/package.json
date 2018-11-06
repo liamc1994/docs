@@ -117,7 +117,7 @@
     "balanced-match": "^1.0.0",
     "bin-wrapper": "^4.0.0",
     "bl": "^2.0.1",
-    "bin-version": "^2.0.0",
+    "bin-version": "^3.0.0",
     "bin-version-check": "^3.0.0",
     "body": "^5.1.0",
     "braces": "^2.3.2",
