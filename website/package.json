@@ -450,7 +450,7 @@
     "os-filter-obj": "^2.0.0",
     "optipng-bin": "^5.0.0",
     "ms": "^2.0.0",
-    "os-tmpdir": "^1.0.2",
+    "os-tmpdir": "^2.0.0",
     "p-pipe": "^1.2.0",
     "os-homedir": "^1.0.2",
     "parse-json": "^4.0.0",
