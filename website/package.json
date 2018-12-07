@@ -423,7 +423,7 @@
     "minimist": "^1.2.0",
     "mixin-deep": "^2.0.0",
     "mkdirp": "^0.5.1",
-    "multipipe": "^2.0.3",
+    "multipipe": "^3.0.0",
     "lazy-req": "^3.0.0",
     "negotiator": "^0.6.1",
     "node-fetch": "^2.2.0",
