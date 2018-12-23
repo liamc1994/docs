@@ -593,7 +593,7 @@
     "tar-stream": "^1.6.1",
     "sum-up": "^3.0.1",
     "tcp-port-used": "^1.0.0",
-    "through2": "^2.0.3",
+    "through2": "^3.0.0",
     "svgo": "^1.0.5",
     "through2-filter": "^3.0.0",
     "temp-dir": "^1.0.0",
