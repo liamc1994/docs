@@ -520,7 +520,7 @@
     "read-pkg": "^4.0.1",
     "readable-stream": "^3.0.2",
     "read-pkg-up": "^4.0.0",
-    "rechoir": "^0.6.2",
+    "rechoir": "^0.7.0",
     "redent": "^2.0.0",
     "reduce-css-calc": "^2.1.4",
     "reduce-function-call": "^1.0.2",
