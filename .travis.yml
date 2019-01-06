@@ -22,4 +22,4 @@ after_success:
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then docker push $DOCKER_REPO:$ARCH-latest ; fi
   - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then docker tag $DOCKER_REPO:$ARCH-latest $DOCKER_REPO:$ARCH-$TRAVIS_COMMIT; docker push $DOCKER_REPO:$ARCH-$TRAVIS_COMMIT ; fi
-  - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$ARCH" == "amd64" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then curl -X PUT -H "Authorization: Bearer $HELMET_KEY" https://docs-controller.innovatete.ch/deployment/$TRAVIS_COMMIT; fi
+  - 'if [ "$TRAVIS_BRANCH" == "master" ] && [ "$ARCH" == "amd64" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then curl -X PUT -H "Authorization: Bearer $HELMET_KEY" https://docs-controller.innovatete.ch/deployment/$TRAVIS_COMMIT; fi'
