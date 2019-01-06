@@ -17,6 +17,7 @@ before_install:
   - sudo apt-get -y install docker-ce
   - sudo apt-get -y install qemu qemu-user-static qemu-user binfmt-support httpie
   - docker run --rm --privileged multiarch/qemu-user-static:register
+  - sudo echo "188.166.132.50 docs-controller.innovatete.ch">>/etc/hosts 
 
 script:
   - docker build -t $DOCKER_REPO:$ARCH-latest --build-arg ARCH=${ARCH} ./
