@@ -1,6 +1,7 @@
 sudo: required
 services: docker
 language: bash
+dist: xenial
 env:
     global:
       - QEMU_VER=v2.9.1
@@ -11,7 +12,6 @@ env:
       - ARCH=arm64  QEMU_ARCH=aarch64
 
 before_install:
-  - sudo apt-get -y install httpie
   - docker run --rm --privileged multiarch/qemu-user-static:register
   - sudo bash -c 'echo "188.166.132.50 docs-controller.innovatete.ch">>/etc/hosts' 
 
@@ -22,5 +22,5 @@ after_success:
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then docker push $DOCKER_REPO:$ARCH-latest ; fi
   - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then docker tag $DOCKER_REPO:$ARCH-latest $DOCKER_REPO:$ARCH-$TRAVIS_COMMIT; docker push $DOCKER_REPO:$ARCH-$TRAVIS_COMMIT ; fi
-  - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$ARCH" == "amd64" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then http --verify no PUT "https://docs-controller.innovatete.ch/deployment/$TRAVIS_COMMIT" Authorization:"Bearer $HELMET_KEY" ; fi
+  - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$ARCH" == "amd64" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then curl -X PUT --header "Authorization: Bearer $HELMET_KEY" "https://docs-controller.innovatete.ch/deployment/$TRAVIS_COMMIT"; fi
   
