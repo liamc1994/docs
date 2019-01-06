@@ -6,6 +6,7 @@ title: "SHOUTcast FAQ"
 ## My server says it needs an update
 
 You may need to restart your server for the update to apply. All our servers now (july 2018) run on SHOUTcast 2.5. All new updates are tested by our team to assure your station stays up should there be a bug in the new release, that's why updates might be rolled out by some delay. In the past this proved to be helpful.
+We have also decided to not roll out SHOUTcast 2.6 as it puts existing features behind a paywall, for this reason we have decided to stay on 2.5 and change our official advice to chose Icecast instead of SHOUTcast.
 
 ## Why is my stream private?
 
