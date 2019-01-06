@@ -45,7 +45,6 @@ You might see a notice that you need to register your station, if not you can cl
 SHOUTcast.com stopped offering pre-2.6 authhashes on their website to push the use of their new paid version. You can still get the old Authhashes via our tool [authhash.shoutca.st](https://authhash.shoutca.st/).
 
 When you filled in all required details and saved the station you will get a screen with your Authhash. Copy this hash and go back to the DNAS admin and enter this code.
-![Authhash text](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-34-39.png)
 ![Authhash field](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-48-48.png)
 
 Keep in mind, the AutoDJ or a live DJ can still tell the server not to be listed. This can be overwritten in the settings.
