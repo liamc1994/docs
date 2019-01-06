@@ -29,6 +29,8 @@ The stream title not changing is a common heard issue. This is because SHOUTcast
 
 > [IMPORTANT] SHOUTcast.com has stopped allowing new listings from older versions. Unfortunaly their latest version removes existing features and asks a monthly fee of 9 USD to add them back. We have decided to keep the older version since we do not want our clients to lose features they use and love.
 
+> As alternative we have created [authhash.shoutca.st](https://authhash.shoutca.st/). This allows you to still create pre-2.6 authhashes.
+
 First of all we need to go to the admin interface of SHOUTcast itself. To do this go to Centova Cast and in the side bar you can find "Admin". 
 ![](https://images.shoutca.st/fef0d8e-Schermafbeelding_2016-07-27_om_12.03.24.png)
 Now we're at the SHOUTcast DNAS status page. Up in the menu you can find "Stream Login".
@@ -40,14 +42,7 @@ You'll be prompted for the username and password. The username is `admin` and th
 You might see a notice that you need to register your station, if not you can click "Authhash" in the top bar.
 ![register authhash noification](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-30-06.png)
 
-On this screen press the "Create authhash" button. This will send you over to SHOUTcast.com
-![create authhash button](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-30-31.png)
-
-Here you need to login with your SHOUTcast.com account, or create one if you don't have one.
-![SHOUTcast RMO login](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-30-50.png)
-
-After you have logged in you need to create a new radio station there. In the options for which type you need to select the "DNAS" option.
-![DNAS option](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-31-32.png)
+SHOUTcast.com stopped offering pre-2.6 authhashes on their website to push the use of their new paid version. You can still get the old Authhashes via our tool [authhash.shoutca.st](https://authhash.shoutca.st/).
 
 When you filled in all required details and saved the station you will get a screen with your Authhash. Copy this hash and go back to the DNAS admin and enter this code.
 ![Authhash text](https://images.shoutca.st/Screenshot%20from%202018-08-27%2011-34-39.png)
