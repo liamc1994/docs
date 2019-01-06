@@ -11,11 +11,7 @@ env:
       - ARCH=arm64  QEMU_ARCH=aarch64
 
 before_install:
-  - curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-  - sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-  - sudo apt-get update
-  - sudo apt-get -y install docker-ce
-  - sudo apt-get -y install qemu qemu-user-static qemu-user binfmt-support httpie
+  - sudo apt-get -y install httpie
   - docker run --rm --privileged multiarch/qemu-user-static:register
   - sudo bash -c 'echo "188.166.132.50 docs-controller.innovatete.ch">>/etc/hosts' 
 
