@@ -9,7 +9,7 @@ You may need to restart your server for the update to apply. All our servers now
 
 ## Why is my stream private?
 
-Private on SHOUTcast doesn't mean nobody can tune in. Private means the server is not listed on SHOUTcast.com. If you wish to change that see [How can I get listed on the SHOUTcast directory?](https://docs.shoutca.st/docs/shoutcast-faq#how-can-i-get-listed-on-the-shoutcast-directory)
+Private on SHOUTcast doesn't mean nobody can tune in. Private means the server is not listed on SHOUTcast.com. If you wish to change that see [How can I get listed on the SHOUTcast directory?](https://docs.shoutca.st/docs/cc-SHOUTcast-FAQ.html#how-can-i-get-listed-on-the-shoutcastcom-directory)
 
 ## Can I access my SHOUTcast server's Administrator Summary?
 
