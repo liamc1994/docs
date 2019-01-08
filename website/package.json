@@ -608,7 +608,7 @@
     "to-object-path": "^0.3.0",
     "toml": "^2.3.3",
     "trim-repeated": "^1.0.0",
-    "tough-cookie": "^2.3.4",
+    "tough-cookie": "^3.0.0",
     "trim-right": "^1.0.1",
     "trim-newlines": "^2.0.0",
     "tunnel-agent": "^0.6.0",
