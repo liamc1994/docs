@@ -460,7 +460,7 @@
     "path-dirname": "^1.0.2",
     "path-is-absolute": "^2.0.0",
     "path-parse": "^1.0.5",
-    "path-to-regexp": "^2.3.0",
+    "path-to-regexp": "^3.0.0",
     "path-key": "^2.0.1",
     "path-type": "^3.0.0",
     "pend": "^1.2.0",
