@@ -13,10 +13,8 @@ env:
 
 before_install:
   - docker run --rm --privileged multiarch/qemu-user-static:register
-  - sudo bash -c 'echo "188.166.132.50 docs-controller.innovatete.ch">>/etc/hosts' 
 
-script:
-  - docker build -t $DOCKER_REPO:$ARCH-latest --build-arg ARCH=${ARCH} ./
+script:  - docker build -t $DOCKER_REPO:$ARCH-latest --build-arg ARCH=${ARCH} ./
 
 after_success:
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
