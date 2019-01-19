@@ -5,10 +5,11 @@ title: "Centova FAQ"
 
 ## What URL do I need to send to TuneIn
 
-TuneIn needs a direct link. You can find that link under Tune in links under Quick Links. For example mine here is `http://curiosity.shoutca.st:8006/stream`
+TuneIn needs a direct link. You can find that link under Tune in links under Quick Links. For example mine here is `https://meyskens.radioca.st/stream`
+It is strongly reccomended to use the HTTPS link (with .radioca.st) for security, perfomance and flexibility.
 > This link is also the one to be used in 3rd party player widgets.
 
-![](https://images.shoutca.st/USrYmhB2QpWRvsSU5KsP_Schermafbeelding%202015-10-29%20om%2013.38.37.png)
+![](https://images.shoutca.st/Screenshot%20from%202019-01-19%2010-55-43.png)
 
 
 ## How can I modify the start page?
