@@ -6,6 +6,7 @@ By default SHOUTcast and Icecast servers run on non-standard ports resulting in 
 
 To use it replace the hostname:port by *username*.radioca.st. So for example http://meyskens.radioca.st/.
 If you need HTTPS, you can also use https:// (eg. https://meyskens.radioca.st/).
+You will be able to find these links also under `Quick Links` in Centova Cast.
 
 Should this not work 24 hours after activating your account please contact our support team.
 
