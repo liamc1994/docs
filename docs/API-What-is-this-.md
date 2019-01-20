@@ -10,6 +10,6 @@ We at SHOUTca.st enjoy a "hacker lifestyle". Before you ask, no, that doesn't me
 Almost all of the services we built have APIs following the REST standard. This makes it universally usable to everybody. You can find all available functions here in the documentation.
 
 ## Open Source
-We believe open source is the future! Our systems are fully dependent on open source software, so why would we keep ours closed? We have open sourced projects like Cast and Player. Soon, ITFrame and Control are to follow. You can find them all on [GitHub](https://github.com/Innovate-Technologies).
+We believe open source is the future! Our systems are fully dependent on open source software, so why would we keep ours closed? We have open sourced projects like Cast Player, ITFrame and Control You can find them all on [GitHub](https://github.com/Innovate-Technologies).
 
 >To guarantee backwards compatibility, we will release versioned APIs in the future which are intended for public use. We don't mind you trying to find the ones we use, and possibly undocumented or even internal endpoints, but do note they might change over time.
