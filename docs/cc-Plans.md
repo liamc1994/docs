@@ -6,6 +6,8 @@ Centova Cast comes in 4 flavours to fit every need. You can change plans all the
 
 ## How to upgrade?
 
+> Upgrading to Pro/Pro+ is currently only possible via Support. A bug in Centova Cast causes these upgrades to be done by hand.
+
 First of all you need to log in to the client area. There go to Services -> My Services.
 There look for the service you want to upgrade and press view details for that product.
 ![product details](https://images.shoutca.st/Screenshot%20from%202018-08-31%2015-28-27.png)
