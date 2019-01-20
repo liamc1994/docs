@@ -11,3 +11,7 @@ Requesting them is very simple:
 1. Make sure you are already listed. [You can add your station right here.](http://tunein.com/syndication/new/?IsBroadcaster=true)
 2. Send an email to [broadcaster-support@tunein.com](mailto:broadcaster-support@tunein.com) mentioning your TuneIn station URL (to get it, search for your station on TuneIn.com) for permission to use the API, and they will grant a partner ID and partner key.
 the API, and they will grant a partner ID and partner key.
+
+## I get a key incorrect error
+
+When adding your key inside Control our system performs a test to see if TuneIn accepts it. If you're sure that the key is correct we suggest to contact TuneIn. We have seen cases where they replied with an incorrect key.
