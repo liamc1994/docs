@@ -36,7 +36,7 @@
     "array-unique": "^0.3.2",
     "asn1": "^0.2.3",
     "async-each-series": "^1.1.0",
-    "autolinker": "^2.0.0",
+    "autolinker": "^3.0.0",
     "assert-plus": "^1.0.0",
     "asynckit": "^0.4.0",
     "autoprefixer": "^9.0.2",
