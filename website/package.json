@@ -606,7 +606,7 @@
     "tiny-lr": "^1.1.1",
     "tree-node-cli": "^1.2.1",
     "to-object-path": "^0.3.0",
-    "toml": "^2.3.3",
+    "toml": "^3.0.0",
     "trim-repeated": "^1.0.0",
     "tough-cookie": "^3.0.0",
     "trim-right": "^1.0.1",
