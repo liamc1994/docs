@@ -451,7 +451,7 @@
     "optipng-bin": "^5.0.0",
     "ms": "^2.0.0",
     "os-tmpdir": "^2.0.0",
-    "p-pipe": "^1.2.0",
+    "p-pipe": "^2.0.0",
     "os-homedir": "^2.0.0",
     "parse-json": "^4.0.0",
     "parse-glob": "^3.0.4",
