@@ -590,7 +590,7 @@
     "strip-eof": "^2.0.0",
     "strip-indent": "^2.0.0",
     "supports-color": "^6.0.0",
-    "tar-stream": "^1.6.1",
+    "tar-stream": "^2.0.0",
     "sum-up": "^3.0.1",
     "tcp-port-used": "^1.0.0",
     "through2": "^3.0.0",
