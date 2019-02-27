@@ -38,3 +38,6 @@ Centova Cast is not aware when you pay your server. Any monthly limits (eg. band
 ## How to modify the default artwork
 When Centova Cast can't find the artwork for your music it will fall back to the default one. Centova Cast originally did not allow you to change this yourself. We developed an integration with [Player](https://docs.shoutca.st/docs/control-Player.html) which syncs these setttings with Centova Cast. 
 Should you want to change the default you have to configure Player in Control. Once this is configured with the artwork it will be synced to Centova Cast within a few hours.
+
+## Cross-Origin Resource Sharing (CORS)
+Modern browsers use CORS in an API container such as XMLHttpRequest or Fetch for better security. SHOUTcast has been sending these out since version 2.5. For Icecast this is a special configuration option but this is not supported by Centova Cast. For Icecast we suggest using our [radioca.st](https://docs.shoutca.st/docs/cc-Port-80-443--SSL-TLS-.html) solution which does send these headers.
