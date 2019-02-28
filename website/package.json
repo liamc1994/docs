@@ -116,7 +116,7 @@
     "bcrypt-pbkdf": "^1.0.1",
     "balanced-match": "^1.0.0",
     "bin-wrapper": "^4.0.0",
-    "bl": "^2.0.1",
+    "bl": "^3.0.0",
     "bin-version": "^3.0.0",
     "bin-version-check": "^4.0.0",
     "body": "^5.1.0",
