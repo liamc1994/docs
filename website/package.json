@@ -262,7 +262,7 @@
     "function-bind": "^1.1.1",
     "flatten": "^1.0.2",
     "get-proxy": "^2.1.0",
-    "get-stream": "^4.0.0",
+    "get-stream": "^5.0.0",
     "getpass": "^0.1.7",
     "get-stdin": "^6.0.0",
     "glob": "^7.1.2",
