@@ -5,10 +5,10 @@ title: "SHOUTcast FAQ"
 
 ## My server says it needs an update
 
-You may need to restart your server for the update to apply. All our servers now (july 2018) run on SHOUTcast 2.5. All new updates are tested by our team to assure your station stays up should there be a bug in the new release, that's why updates might be rolled out by some delay. In the past this proved to be helpful.
+You may need to restart your server for the update to apply. All our servers now (July 2018) run on SHOUTcast 2.5. All new updates are tested by our team to assure your station stays up should there be a bug in the new release, that's why updates might be rolled out by some delay. In the past this proved to be helpful.
 
-We have also decided to not roll out SHOUTcast 2.6 as it puts existing features behind a paywall, for this reason we have decided to stay on 2.5 and change our official advice to chose Icecast instead of SHOUTcast.  
-**UPDATE**: SHOUTcast released a statement that SHOUTcast 2.6 will not be usable by CDNs (us), therefor we can not upgrade anyway.
+We have also decided to not roll out SHOUTcast 2.6 as it puts existing features behind a paywall, for this reason we have decided to stay on 2.5 and change our official advice to choose Icecast instead of SHOUTcast.  
+**UPDATE**: SHOUTcast released a statement that SHOUTcast 2.6 will not be usable by CDNs (us), therefore we can not upgrade anyway.
 
 ## Why is my stream private?
 
@@ -22,7 +22,7 @@ Of course! To access your SHOUTcast server’s admin section, please log in into
 
 ## My stream title/url/genre does not change
 
-The stream title not changing is a common heard issue. This is because SHOUTcast uses the info in their database instead of the one you provide once you set it to public. It is easy to fix in two steps:
+The stream title not changing is a commonly heard issue. This is because SHOUTcast uses the info in their database instead of the one you provide once you set it to public. It is easy to fix in two steps:
 
 1) Check your mount point configuration. Under the "AutoDJ" tab there often still is the old title.
 2) Check your Authhash: when SHOUTcast v2 is set to public the stream title is frozen unless changed in the Administrator part. Just log in and press "Update Authhash". There you can edit the name and save it.
