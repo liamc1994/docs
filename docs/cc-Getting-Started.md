@@ -74,7 +74,7 @@ Press start and there we go!
 
 **What's next?**
 Now we are streaming it is time to dive into Centova Cast.
-If you want to connect live you can find your details under "Quick Links", if your server supports DJ accounts (all types excpect SHOUTcast v1) you don't even have to turn off the AutoDJ to go live. 
+If you want to connect live you can find your details under "Quick Links", if your server supports DJ accounts (all types except SHOUTcast v1) you don't even have to turn off the AutoDJ to go live. 
 Got a website? Then "Widgets" might be a nice page for you! 
 Want to plan in shows? Different rotations? Then the playlists feature is what you are looking for!
 Last but not least: freaked on statistics? Yes Centova provides those too! (Even in Excel for the die hards)
