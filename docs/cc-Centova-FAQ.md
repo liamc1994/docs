@@ -6,7 +6,7 @@ title: "Centova FAQ"
 ## What URL do I need to send to TuneIn
 
 TuneIn needs a direct link. You can find that link under Tune in links under Quick Links. For example mine here is `https://meyskens.radioca.st/stream`
-It is strongly reccomended to use the HTTPS link (with .radioca.st) for security, perfomance and flexibility.
+It is strongly recommended to use the HTTPS link (with .radioca.st) for security, perfomance and flexibility.
 > This link is also the one to be used in 3rd party player widgets.
 
 ![](https://images.shoutca.st/Screenshot%20from%202019-01-19%2010-55-43.png)
@@ -14,7 +14,7 @@ It is strongly reccomended to use the HTTPS link (with .radioca.st) for security
 
 ## How can I modify the start page?
 
-The start page is meant for testing purposes only. We strongly advice against using it as a website!
+The start page is meant for testing purposes only. We strongly advise against using it as a website!
 
 ## Where is my FTP?
 
@@ -33,7 +33,7 @@ Take a look at the other FAQs listed here or the [official Centova Cast document
 The first advice is to check your email. This usually happens when you broadcast in a higher bitrate than allowed by your plan. Centova Cast checks this every few minutes.
 
 ## Bandwidth limit
-Centova Cast is not aware when you pay your server. Any monthly limits (eg. bandwidth) are therefor counted from the first to the last calendar day of every month. If you go over this limit Centova Cast will suspend your account which will be unsuspended on upgrade or the first day of the next calendar month (1st of the month)
+Centova Cast is not aware when you pay your server. Any monthly limits (eg. bandwidth) are therefore counted from the first to the last calendar day of every month. If you go over this limit Centova Cast will suspend your account which will be unsuspended on upgrade or the first day of the next calendar month (1st of the month)
 
 ## How to modify the default artwork
 When Centova Cast can't find the artwork for your music it will fall back to the default one. Centova Cast originally did not allow you to change this yourself. We developed an integration with [Player](https://docs.shoutca.st/docs/control-Player.html) which syncs these setttings with Centova Cast. 
