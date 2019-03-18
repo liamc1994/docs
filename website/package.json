@@ -400,7 +400,7 @@
     "longest": "^2.0.1",
     "logalot": "^2.1.0",
     "lowercase-keys": "^1.0.1",
-    "loud-rejection": "^1.6.0",
+    "loud-rejection": "^2.0.0",
     "lpad-align": "^2.0.0",
     "lru-cache": "^5.0.0",
     "make-dir": "^2.0.0",
