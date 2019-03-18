@@ -15,7 +15,7 @@ Cast supports MP3 and AAC streams as well as OGG (Opus and Vorbis) encapsulated 
 You can connect to Cast by using the SHOUTcast v1 or Icecast (v2) protocol.
 
 ## HTTP Live Streaming
-HLS (HTTP Live Streaming) is a new [standard](https://tools.ietf.org/html/draft-pantos-http-live-streaming-18) for live streams over the internet. It was designed by [Apple](https://developer.apple.com/streaming/) but got widely adopted for live and on demand video streaming. But the standard also got support for MP3 and AAC streams. HLS is now availale as beta in Cast.
+HLS (HTTP Live Streaming) is a new [standard](https://tools.ietf.org/html/draft-pantos-http-live-streaming-18) for live streams over the internet. It was designed by [Apple](https://developer.apple.com/streaming/) but got widely adopted for live and on demand video streaming. But the standard also got support for MP3 and AAC streams. HLS is now available as beta in Cast.
 
 ## MPEG DASH
 DASH (Dynamic Adaptive Streaming over HTTP) looks a lot like DASH but has been made a standard (ISO/IEC 23009-1) by the MPEG workgroup. It also is available in Cast as a beta feature.
