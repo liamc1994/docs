@@ -6,7 +6,7 @@ title: "Centova FAQ"
 ## What URL do I need to send to TuneIn
 
 TuneIn needs a direct link. You can find that link under Tune in links under Quick Links. For example mine here is `https://meyskens.radioca.st/stream`
-It is strongly reccomended to use the HTTPS link (with .radioca.st) for security, perfomance and flexibility.
+It is strongly recommended to use the HTTPS link (with .radioca.st) for security, perfomance and flexibility.
 > This link is also the one to be used in 3rd party player widgets.
 
 ![](https://images.shoutca.st/Screenshot%20from%202019-01-19%2010-55-43.png)
@@ -14,7 +14,7 @@ It is strongly reccomended to use the HTTPS link (with .radioca.st) for security
 
 ## How can I modify the start page?
 
-The start page is meant for testing purposes only. We strongly advice against using it as a website!
+The start page is meant for testing purposes only. We strongly advise against using it as a website!
 
 ## Where is my FTP?
 
