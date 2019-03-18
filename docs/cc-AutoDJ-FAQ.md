@@ -28,7 +28,7 @@ A higher bitrate gives better quality on the cost of bandwidth being used. The i
 
 ## What is a sample rate?
 
-A sample rate is technically the number of audio samples taking per second. This can be seen as the amount of data put in one second of an audio file. In relation to thhe bit rate this is the amount of data that has to be compressed into the the bit rate amount. Usually this is 44.1KHz or 441000Hz. Higher bitrates could benefit of using 48KHz. However should you want to put 48KHz into a lower bitrate like 64kbps this will result into bad sound as it tries to compress too much data into a smaller amount of data. That's why we suggest to pick a lower sample rate on a lower bitrate.
+A sample rate is technically the number of audio samples taking per second. This can be seen as the amount of data put in one second of an audio file. In relation to thhe bit rate this is the amount of data that has to be compressed into the the bit rate amount. Usually this is 44.1KHz or 44100Hz. Higher bitrates could benefit of using 48KHz. However should you want to put 48KHz into a lower bitrate like 64kbps this will result into bad sound as it tries to compress too much data into a smaller amount of data. That's why we suggest to pick a lower sample rate on a lower bitrate.
 While Centova Cast offers the ability to go as low as 8KHz or as high as 96KHz we strongly suggest not to do this as it might sound terrible or not even work at all. We suggest staying around the value of 44.1KHz.
 
 ## Where to set the Crossfade?
@@ -40,11 +40,11 @@ The last option you can chose a mode, the normal mode is a classic cross fade an
 
 ## Can the AutoDJ change my stream title for a DJ?
 
-Due limitations this is not possible as it would have to kick all listeners of the stream. To solve this the SHOUTcast team has a new song tag on their roadmap that will add the DJ name to the stream info. This feature will soon be available with the new SHOUTcast. (Cast already comes with the tag built in)
+Due to limitations this is not possible as it would have to kick all listeners of the stream. To solve this the SHOUTcast team has a new song tag on their roadmap that will add the DJ name to the stream info. This feature will soon be available with the new SHOUTcast. (Cast already comes with the tag built in)
 
 ## My stream's volume is low
 
-You can try to turn of replay gain. This is made to let all tracks be at the same volume but in Centova's implementation this can go wrong sometimes. You can turn it off in Settings -> AutoDJ. Don't forget to restart the server afterwards.
+Try turning off replay gain. This is made to let all tracks be at the same volume but in Centova's implementation this can go wrong sometimes. You can turn it off in Settings -> AutoDJ. Don't forget to restart the server afterwards.
 ![](https://images.shoutca.st/BoV8vzCpQMeDGbXRwQNe_Schermafbeelding%202016-05-04%20om%2018.08.08.png)
 
 ## I am seeing weird codes im the song titless
@@ -59,6 +59,6 @@ AAC+ is just a brand name of HE-AAC (High-Efficiency Advanced Audio Coding). Whi
 ## liquidsoap exited immediately after startup
 Most of the times when you see this error this means there is something wrong with your AutoDJ settings. You can check then in the settings under "Mount Points" then "AutoDJ Settings".
 ![example of too high sample rate](https://images.shoutca.st/Screenshot%20from%202018-09-09%2009-56-12.png)
-What we often see is the issue of a too high or too low sample rate being used. We advice not to go higher than 48000Hz. The usual is 44100Hz. Should you broadcast on low bitrates like 64kbps we advice to go a little bit lower.
+What we often see is the issue of a too high or too low sample rate being used. We advise not to go higher than 48000Hz. The usual is 44100Hz. Should you broadcast on low bitrates like 64kbps we advise to go a little bit lower.
 Should this still happen after these changes please contact our support.
 
