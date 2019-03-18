@@ -5,7 +5,7 @@ excerpt: "The best ways to contact us!"
 
 ## What is the best way to contact SHOUTca.st?
 
-The best way is to submit a [supporr ticket](https://my.shoutca.st/submitticket.php). This allows us to view your account details to help you out as fast as possible. Once sent it will be queued up for our suppor team to answer.
+The best way is to submit a [support ticket](https://my.shoutca.st/submitticket.php). This allows us to view your account details to help you out as fast as possible. Once sent it will be queued up for our support team to answer.
 
 ## Do you have a contact number?
 
