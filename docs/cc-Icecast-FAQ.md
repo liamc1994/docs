@@ -44,5 +44,5 @@ Tn the example here we want to relay the Cast stream `http://opencast.radioca.st
 
 ## Icecast Server Administration Login
 
-To login to the admin part of Icecast you need to use the username `admin` toghether with the password of your Centova Cast account.
+To login to the admin part of Icecast you need to use the username `admin` together with the password of your Centova Cast account.
 
