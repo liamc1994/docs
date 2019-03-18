@@ -21,7 +21,7 @@ title: "Services"
 Canceling your service is simple. You can do this by going to the Client Area, then Services -> My Services. There select the service you want to cancel and go to "Request Cancelation".
 ![request cancelation screen](https://images.shoutca.st/Screenshot%20from%202018-07-30%2011-18-32.png)
 
-To improve our service we friendly ask you to describe why you want to cancel our service. You can either cancel it immediatly or at the end of the current billing period. In case of immediatly our system will execute these within 24 hours.
+To improve our service we politely ask you to describe why you want to cancel our service. You can either cancel it immediately or at the end of the current billing period. In case of immediately our system will execute these within 24 hours.
 
 > This is a fully automated system, the reason given is only stored for later review of our services. This will not be sent to support.
 
