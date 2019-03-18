@@ -5,7 +5,7 @@ title: "SHOUTcast vs Icecast"
 
 We strongly suggest using Icecast. SHOUTcast has stopped their offering of ther DNAS as free software and has released a paid version that will cost 9.90 USD (per station) for features already offered by Icecast and Centova Cast for free. The free version of SHOUTcast can only broadcast one 128kbps stream where before more and no bitrate limit was offered for free. Existing SHOUTcast clients will stay on the old free version with all features.
 
-SHOUTca.st suggests supporting free and open source sofrware by using Cast or Icecast.
+SHOUTca.st suggests supporting free and open source software by using Cast or Icecast.
 
 ## Do I need an MP3 key for SHOUTcast?
 
