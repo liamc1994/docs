@@ -10,7 +10,7 @@ You can pay in British Pounds (GBP), US Dollars (USD) and Euros (EUR). We will u
 
 ### Can I change my currency
 
-No. Our billing system doesn't allow this. If you do want to change this we advice to create a new account with the correct currency and ask our support to move your services to the new account. 
+No. Our billing system doesn't allow this. If you do want to change this we advise to create a new account with the correct currency and ask our support to move your services to the new account. 
 
 ## Do you charge automatically?
 
@@ -33,18 +33,18 @@ There change your default payment method to a specific one
 
 ### Why did you discontinue PayPal subscriptions?
 
-We have changed the way our system handles foreigh exchange rates, these now can change over time to reflect the actual rate. PayPal Subscriptions work like a "standing order" and send a specific amount of money on a specific date, with us being unable to change this. This caused issues on up/downgrades as well as exchange rates. This also affects usage based plans like Cast with DJ and the Pro+ plan. This is why we disabled this feature and replaced it with automatic card and direct debit payments, unlike PayPal these allow us to take a different amount every month,
+We have changed the way our system handles foreigh exchange rates, these now can change over time to reflect the actual rate. PayPal Subscriptions work like a "standing order" and send a specific amount of money on a specific date, with us being unable to change this. This caused issues on up/downgrades as well as exchange rates. This also affects usage based plans like Cast with DJ and the Pro+ plan. This is why we disabled this feature and replaced it with automatic card and direct debit payments, unlike PayPal these allow us to take a different amount every month.
 
 ## My card payment failed
 
-If your card got rejected or when an invoice is not marked paid after a payment this means our system was not able to receive a successful payment. Therefor our payment processor can not confirm and send the money to us. 
-If you still see a charge on your account, that can be a *pending* charge. Meaning it won't settle. If you are unsure about this we suggest to contact your bank. 
+If your card got rejected or when an invoice is not marked paid after a payment, this means our system was not able to receive a successful payment. Therefore our payment processor can not confirm and send the money to us. 
+If you still see a charge on your account, that can be a *pending* charge (meaning it won't settle). If you are unsure about this we suggest to contact your bank. 
 
 In case you get any error on the payment we suggest contacting your bank for the exact reason for the failure or trying an alternative method such as PayPal.
 
 ## Remove my card or cancel direct debit
 
-If you want to remove your card or cancel your direct debit you can do this in the Client Area under Billing -> Manage Credit Card. This page will allow you to save a new credit or debit card or to delete your existing one.
+If you want to remove your card (or cancel your direct debit) you can do this in the Client Area under Billing -> Manage Credit Card. This page will allow you to save a new credit or debit card or to delete your existing one.
 
 ![screenshot of card page](https://images.shoutca.st/Screenshot%20from%202018-07-30%2009-55-15.png)
 
