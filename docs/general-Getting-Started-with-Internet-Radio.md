@@ -18,6 +18,3 @@ For online broadcast, two licences are required. One from PPL & one from PRS For
 For other countries we suggest to contact your local authorities or ask for suggestions in the community.
 
 We do not force any of our users to purchase these licences and will not suspend any services if we find that they are not licenced. However, if we receive a complaint from PPL, PRS or a music artist/record label - we will be forced to remove the audio file which has been complained about. This could also lead to termination of the main account. You will be notified of this before anything is deleted from your account.
-fied of this before anything is deleted from your account.
-ount.
-fied of this before anything is deleted from your account.
